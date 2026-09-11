@@ -1,0 +1,75 @@
+<%- include("partials/head", { pageTitle, bodyClass: "auth-page" }) %>
+
+<div class="page page-auth">
+  <section class="auth-copy">
+    <a href="/" class="brand">
+      <span class="brand-mark"><i class="fa-solid fa-wave-square"></i></span>
+      <span class="brand-text">wanzofc bot</span>
+    </a>
+    <p class="eyebrow">login admin</p>
+    <h1>login untuk buka dashboard bot</h1>
+    <p>masuk pakai email atau username seperti login biasa untuk mengelola session, pairing, power bot, dan editor <span class="mono">message.js</span>.</p>
+
+    <section class="surface auth-status" data-secret-group="auth-runtime">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">snapshot</p>
+          <h2>status runtime saat ini</h2>
+        </div>
+        <span class="lock-badge"><i class="fa-solid fa-lock"></i> tersensor permanen</span>
+      </div>
+      <div class="terminal-stack">
+        <div class="terminal-line">
+          <span class="terminal-key">status</span>
+          <span class="status-pill status-<%= pairingState.status %>"><%= pairingState.status %></span>
+        </div>
+        <div class="terminal-line">
+          <span class="terminal-key">connection</span>
+          <span data-secret="<%= pairingState.connection || '-' %>" data-masked="<%= (botProfile.maskRuntimeAuth !== false ? maskValue(pairingState.connection || '-') : (pairingState.connection || '-')) %>"><%= botProfile.maskRuntimeAuth !== false ? maskValue(pairingState.connection || '-') : (pairingState.connection || '-') %></span>
+        </div>
+        <div class="terminal-line">
+          <span class="terminal-key">connected jid</span>
+          <span class="mono" data-secret="<%= pairingState.connectedJid || '-' %>" data-masked="<%= (botProfile.maskRuntimeAuth !== false ? maskValue(pairingState.connectedJid || '-') : (pairingState.connectedJid || '-')) %>"><%= botProfile.maskRuntimeAuth !== false ? maskValue(pairingState.connectedJid || '-') : (pairingState.connectedJid || '-') %></span>
+        </div>
+        <div class="terminal-line">
+          <span class="terminal-key">tracked sessions</span>
+          <span><%= metrics.totalSessions %></span>
+        </div>
+      </div>
+    </section>
+  </section>
+
+  <section class="surface auth-panel">
+    <div class="section-head">
+      <div>
+        <p class="eyebrow">login form</p>
+        <h2>masuk ke control room</h2>
+      </div>
+      <i class="fa-solid fa-fingerprint section-icon"></i>
+    </div>
+
+    <%- include("partials/flash") %>
+    <div class="flash flash-error" data-auth-feedback hidden>
+      <i class="fa-solid fa-circle-exclamation"></i>
+      <span data-auth-feedback-text></span>
+    </div>
+
+    <form action="/login" method="post" class="form-stack" data-auth-form="login" novalidate>
+      <label class="field">
+        <span>email atau username</span>
+        <input type="text" name="identifier" placeholder="berlianawan7@gmail.com" autocomplete="username" required>
+      </label>
+
+      <label class="field">
+        <span>password</span>
+        <input type="password" name="password" placeholder="••••••••" autocomplete="current-password" required>
+      </label>
+
+      <button type="submit" class="button button-primary button-block"><i class="fa-solid fa-right-to-bracket"></i> login ke dashboard</button>
+    </form>
+
+    <p class="form-foot">belum punya akun? <a href="/register">register di sini</a></p>
+  </section>
+</div>
+
+<%- include("partials/footer") %>
