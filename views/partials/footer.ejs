@@ -1,0 +1,11 @@
+<script src="/assets/js/common.js"></script>
+<% if (typeof inlineScript !== "undefined" && inlineScript) { %>
+<script>
+  <%- inlineScript %>
+</script>
+<% } %>
+<% if (typeof scriptName !== "undefined" && scriptName) { %>
+<script src="/assets/js/<%= scriptName %>"></script>
+<% } %>
+</body>
+</html>
