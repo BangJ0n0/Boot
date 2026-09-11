@@ -1,0 +1,85 @@
+<%- include("partials/head", { pageTitle, bodyClass: "auth-page" }) %>
+
+<div class="page page-auth">
+  <section class="auth-copy">
+    <a href="/" class="brand">
+      <span class="brand-mark"><i class="fa-solid fa-wave-square"></i></span>
+      <span class="brand-text">wanzofc bot</span>
+    </a>
+    <p class="eyebrow">register admin</p>
+    <h1>buat akun baru untuk dashboard</h1>
+    <p>registrasi sekarang dibuat normal seperti form umum. cukup isi nama, username, email, dan password lalu masuk ke dashboard.</p>
+
+    <section class="surface register-note" data-secret-group="register-runtime">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">detail akses</p>
+          <h2>yang akan Anda dapat</h2>
+        </div>
+        <span class="lock-badge"><i class="fa-solid fa-lock"></i> tersensor permanen</span>
+      </div>
+      <div class="terminal-stack">
+        <div class="terminal-line">
+          <span class="terminal-key">pairing</span>
+          <span>request code per session</span>
+        </div>
+        <div class="terminal-line">
+          <span class="terminal-key">power</span>
+          <span>aktif atau off tiap session</span>
+        </div>
+        <div class="terminal-line">
+          <span class="terminal-key">akses</span>
+          <span>login dan register normal</span>
+        </div>
+        <div class="terminal-line">
+          <span class="terminal-key">runtime</span>
+          <span data-secret="<%= pairingState.status || 'idle' %>" data-masked="<%= (botProfile.maskRuntimeAuth !== false ? maskValue(pairingState.status || 'idle') : (pairingState.status || 'idle')) %>"><%= botProfile.maskRuntimeAuth !== false ? maskValue(pairingState.status || 'idle') : (pairingState.status || 'idle') %></span>
+        </div>
+      </div>
+    </section>
+  </section>
+
+  <section class="surface auth-panel">
+    <div class="section-head">
+      <div>
+        <p class="eyebrow">register form</p>
+        <h2>buat admin dashboard</h2>
+      </div>
+      <i class="fa-solid fa-user-plus section-icon"></i>
+    </div>
+
+    <%- include("partials/flash") %>
+    <div class="flash flash-error" data-auth-feedback hidden>
+      <i class="fa-solid fa-circle-exclamation"></i>
+      <span data-auth-feedback-text></span>
+    </div>
+
+    <form action="/register" method="post" class="form-stack" data-auth-form="register" novalidate>
+      <label class="field">
+        <span>nama lengkap</span>
+        <input type="text" name="name" placeholder="wanzo fc" autocomplete="name" required>
+      </label>
+
+      <label class="field">
+        <span>username</span>
+        <input type="text" name="username" placeholder="wanzofc" autocomplete="username" required>
+      </label>
+
+      <label class="field">
+        <span>email</span>
+        <input type="email" name="email" placeholder="berlianawan7@gmail.com" autocomplete="email" required>
+      </label>
+
+      <label class="field">
+        <span>password</span>
+        <input type="password" name="password" placeholder="minimal 6 karakter" autocomplete="new-password" required>
+      </label>
+
+      <button type="submit" class="button button-primary button-block"><i class="fa-solid fa-circle-plus"></i> buat akun admin</button>
+    </form>
+
+    <p class="form-foot">sudah punya akun? <a href="/login">login sekarang</a></p>
+  </section>
+</div>
+
+<%- include("partials/footer") %>
