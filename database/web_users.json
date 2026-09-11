@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "fa9e6176-da01-4ad8-a7d9-00eaa244b126",
+    "name": "Zanss Xploit",
+    "username": "zanssxploit@gmail.com",
+    "email": "berlianawan498@gmail.com",
+    "passwordHash": "$2b$10$oau7lWEfqQaayEtIzhO2M.cbUwKb3yvDOlhJ/2wnUpit5c3WXvdHy",
+    "role": "admin",
+    "isActive": true,
+    "createdAt": "2026-04-20T15:57:06.009Z",
+    "updatedAt": "2026-04-20T18:09:29.472Z",
+    "avatarMode": "link",
+    "avatarUrl": "",
+    "avatarUpload": ""
+  },
+  {
+    "_id": "a6791b28-c57c-4db1-b826-f191bb74f848",
+    "name": "awan berlian",
+    "username": "maverickuniversee405@gmail.com",
+    "email": "maverickuniversee405@gmail.com",
+    "passwordHash": "$2b$10$I9Vglt9rqtIau4b5vgCddOfLOP4ZN8A.pio8PnBd6QD0AXEydLo3G",
+    "avatarMode": "link",
+    "avatarUrl": "",
+    "avatarUpload": "",
+    "role": "admin",
+    "isActive": true,
+    "createdAt": "2026-04-20T19:00:51.184Z",
+    "updatedAt": "2026-04-20T19:00:51.184Z"
+  },
+  {
+    "_id": "f2936502-b7f7-4b18-b6a3-19935812fdc6",
+    "name": "barz",
+    "username": "barz",
+    "email": "dm6582100@gmail.com",
+    "passwordHash": "$2b$10$bsaOnfEpALhHjDxefqjaHejyBOCEzCOLeAUkjzHU19XOqA4pG0UFS",
+    "avatarMode": "link",
+    "avatarUrl": "",
+    "avatarUpload": "",
+    "role": "admin",
+    "isActive": true,
+    "createdAt": "2026-04-20T19:01:34.024Z",
+    "updatedAt": "2026-04-20T19:01:34.024Z"
+  },
+  {
+    "_id": "bff6ab43-8989-4ee5-bd39-0041bfd2e301",
+    "name": "Zack",
+    "username": "zack",
+    "email": "zackrylsen@gmail.com",
+    "passwordHash": "$2b$10$4bzR02b7nEmJSlpXdwOHCewWQ6PHZaMw9aNoe4jVaLVgkO8sZNvEG",
+    "avatarMode": "link",
+    "avatarUrl": "",
+    "avatarUpload": "",
+    "role": "admin",
+    "isActive": true,
+    "createdAt": "2026-04-20T19:06:57.474Z",
+    "updatedAt": "2026-04-20T19:06:57.474Z"
+  }
+]
