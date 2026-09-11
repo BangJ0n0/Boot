@@ -1,0 +1,13 @@
+[
+  {
+    "_id": "8362b598-b55b-408e-b81a-6e81bc35fb47",
+    "code": "WANZOFC-ADMIN",
+    "label": "initial dashboard invite",
+    "isActive": false,
+    "createdBy": "system",
+    "usedBy": "fa9e6176-da01-4ad8-a7d9-00eaa244b126",
+    "usedAt": "2026-04-20T15:57:06.011Z",
+    "createdAt": "2026-04-20T15:56:46.567Z",
+    "updatedAt": "2026-04-20T15:57:06.011Z"
+  }
+]
