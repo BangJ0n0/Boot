@@ -1,0 +1,252 @@
+<%- include("partials/head", { pageTitle, bodyClass: "auth-page" }) %>
+
+<div class="page page-auth page-profile">
+  <section class="auth-copy">
+    <a href="/" class="brand">
+      <span class="brand-mark"><i class="fa-solid fa-user-gear"></i></span>
+      <span class="brand-text">wanzofc bot</span>
+    </a>
+    <p class="eyebrow">profile dan bot settings</p>
+    <h1>atur akun admin dan identitas bot</h1>
+    <p>ubah email, username, password, avatar, bot name, nomor owner, thumbnail, dan toggle sensor runtime dari sini.</p>
+
+    <section class="surface auth-status" data-secret-group="runtime-main">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">runtime utama</p>
+          <h2>snapshot realtime</h2>
+        </div>
+        <span class="lock-badge"><i class="fa-solid fa-lock"></i> tersensor permanen</span>
+      </div>
+      <div class="terminal-stack">
+        <div class="terminal-line">
+          <span class="terminal-key">status</span>
+          <span class="status-pill status-<%= pairingState.status %>"><%= pairingState.status %></span>
+        </div>
+        <div class="terminal-line">
+          <span class="terminal-key">connection</span>
+          <span data-secret="<%= pairingState.connection || '-' %>" data-masked="<%= maskValue(pairingState.connection || '-') %>"><%= maskValue(pairingState.connection || '-') %></span>
+        </div>
+        <div class="terminal-line">
+          <span class="terminal-key">phone</span>
+          <span class="mono" data-secret="<%= pairingState.phone || '-' %>" data-masked="<%= maskValue(pairingState.phone || '-') %>"><%= maskValue(pairingState.phone || '-') %></span>
+        </div>
+        <div class="terminal-line">
+          <span class="terminal-key">jid</span>
+          <span class="mono" data-secret="<%= pairingState.connectedJid || '-' %>" data-masked="<%= maskValue(pairingState.connectedJid || '-') %>"><%= maskValue(pairingState.connectedJid || '-') %></span>
+        </div>
+      </div>
+    </section>
+  </section>
+
+  <section class="surface auth-panel">
+    <div class="section-head">
+      <div>
+        <p class="eyebrow">update form</p>
+        <h2>edit akun dan bot</h2>
+      </div>
+      <a href="/dashboard" class="button button-ghost"><i class="fa-solid fa-arrow-left"></i> dashboard</a>
+    </div>
+
+    <%- include("partials/flash") %>
+
+    <form action="/profile" method="post" class="form-stack profile-form">
+      <section class="profile-section">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">akun admin</p>
+            <h2>identitas login</h2>
+          </div>
+          <i class="fa-solid fa-id-card section-icon"></i>
+        </div>
+        <div class="detail-grid">
+        <label class="field">
+          <span>nama admin</span>
+          <input type="text" name="name" value="<%= profileSettings.name %>" required>
+        </label>
+        <label class="field">
+          <span>username</span>
+          <input type="text" name="username" value="<%= profileSettings.username %>" required>
+        </label>
+      </div>
+
+      <div class="detail-grid">
+        <label class="field">
+          <span>email</span>
+          <input type="email" name="email" value="<%= profileSettings.email %>" required>
+        </label>
+        <label class="field">
+          <span>password baru</span>
+          <input type="password" name="password" placeholder="kosongkan jika tidak ganti">
+        </label>
+      </div>
+      </section>
+
+      <section class="profile-section">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">avatar admin</p>
+            <h2>foto profil akun web</h2>
+          </div>
+          <i class="fa-solid fa-image-portrait section-icon"></i>
+        </div>
+        <div class="detail-grid">
+        <label class="field">
+          <span>mode avatar</span>
+          <select name="avatarMode" class="field-select">
+            <option value="link" <%= profileSettings.avatarMode === "link" ? "selected" : "" %>>link</option>
+            <option value="upload" <%= profileSettings.avatarMode === "upload" ? "selected" : "" %>>upload</option>
+          </select>
+        </label>
+        <label class="field">
+          <span>link avatar</span>
+          <input type="text" name="avatarUrl" value="<%= profileSettings.avatarUrl %>" placeholder="https://...">
+        </label>
+      </div>
+
+      <input type="hidden" name="avatarUpload" id="avatarUpload" value="<%= profileSettings.avatarUpload %>">
+      <label class="field">
+        <span>upload avatar</span>
+        <input type="file" accept="image/*" data-upload-input data-upload-hidden="#avatarUpload" data-upload-preview="#avatarPreview">
+      </label>
+      <img id="avatarPreview" class="upload-preview" src="<%= profileSettings.avatarMode === 'upload' ? (profileSettings.avatarUpload || profileSettings.avatarUrl || '') : (profileSettings.avatarUrl || profileSettings.avatarUpload || '') %>" alt="avatar preview">
+      </section>
+
+      <section class="profile-section">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">identitas bot</p>
+            <h2>nama bot dan owner</h2>
+          </div>
+          <i class="fa-solid fa-robot section-icon"></i>
+        </div>
+        <div class="detail-grid">
+        <label class="field">
+          <span>bot name</span>
+          <input type="text" name="botName" value="<%= profileSettings.botName %>">
+        </label>
+        <label class="field">
+          <span>nama owner</span>
+          <input type="text" name="ownerName" value="<%= profileSettings.ownerName %>">
+        </label>
+      </div>
+
+      <label class="field">
+        <span>nomor owner</span>
+        <input type="text" name="ownerNumber" value="<%= profileSettings.ownerNumber %>">
+      </label>
+      </section>
+
+      <section class="profile-section">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">thumbnail bot</p>
+            <h2>gambar utama dan reply</h2>
+          </div>
+          <i class="fa-solid fa-images section-icon"></i>
+        </div>
+        <div class="detail-grid">
+        <label class="field">
+          <span>mode thumbnail utama</span>
+          <select name="thumbnailMode" class="field-select">
+            <option value="link" <%= profileSettings.thumbnailMode === "link" ? "selected" : "" %>>link</option>
+            <option value="upload" <%= profileSettings.thumbnailMode === "upload" ? "selected" : "" %>>upload</option>
+          </select>
+        </label>
+        <label class="field">
+          <span>link thumbnail utama</span>
+          <input type="text" name="thumbnail" value="<%= profileSettings.thumbnail %>" placeholder="https://...">
+        </label>
+      </div>
+      <input type="hidden" name="thumbnailUpload" id="thumbnailUpload" value="<%= profileSettings.thumbnailUpload %>">
+      <label class="field">
+        <span>upload thumbnail utama</span>
+        <input type="file" accept="image/*" data-upload-input data-upload-hidden="#thumbnailUpload" data-upload-preview="#thumbnailPreview">
+      </label>
+      <img id="thumbnailPreview" class="upload-preview" src="<%= profileSettings.thumbnailMode === 'upload' ? (profileSettings.thumbnailUpload || profileSettings.thumbnail || '') : (profileSettings.thumbnail || profileSettings.thumbnailUpload || '') %>" alt="thumbnail preview">
+
+      <div class="detail-grid">
+        <label class="field">
+          <span>mode thumbnail reply</span>
+          <select name="replyThumbnailMode" class="field-select">
+            <option value="link" <%= profileSettings.replyThumbnailMode === "link" ? "selected" : "" %>>link</option>
+            <option value="upload" <%= profileSettings.replyThumbnailMode === "upload" ? "selected" : "" %>>upload</option>
+          </select>
+        </label>
+        <label class="field">
+          <span>link thumbnail reply</span>
+          <input type="text" name="replyThumbnail" value="<%= profileSettings.replyThumbnail %>" placeholder="https://...">
+        </label>
+      </div>
+      <input type="hidden" name="replyThumbnailUpload" id="replyThumbnailUpload" value="<%= profileSettings.replyThumbnailUpload %>">
+      <label class="field">
+        <span>upload thumbnail reply</span>
+        <input type="file" accept="image/*" data-upload-input data-upload-hidden="#replyThumbnailUpload" data-upload-preview="#replyThumbnailPreview">
+      </label>
+      <img id="replyThumbnailPreview" class="upload-preview" src="<%= profileSettings.replyThumbnailMode === 'upload' ? (profileSettings.replyThumbnailUpload || profileSettings.replyThumbnail || '') : (profileSettings.replyThumbnail || profileSettings.replyThumbnailUpload || '') %>" alt="reply thumbnail preview">
+      </section>
+
+      <section class="profile-section">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">privasi runtime</p>
+            <h2>status sensor web</h2>
+          </div>
+          <i class="fa-solid fa-shield-halved section-icon"></i>
+        </div>
+        <div class="detail-grid">
+        <label class="field checkbox-field">
+          <input type="checkbox" name="maskRuntimeHome" <%= profileSettings.maskRuntimeHome ? "checked" : "" %>>
+          <span>sensor runtime di home</span>
+        </label>
+        <label class="field checkbox-field">
+          <input type="checkbox" name="maskRuntimeAuth" <%= profileSettings.maskRuntimeAuth ? "checked" : "" %>>
+          <span>sensor runtime di login/register/profile</span>
+        </label>
+      </div>
+
+      <label class="field">
+        <span>footer text</span>
+        <input type="text" name="footerText" value="<%= profileSettings.footerText %>" placeholder="powered by wanzofc bot">
+      </label>
+      </section>
+
+      <button type="submit" class="button button-primary button-block"><i class="fa-solid fa-floppy-disk"></i> simpan profile dan setting bot</button>
+    </form>
+
+    <section class="surface narrative-panel" style="margin-top: 20px;">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">message.js inspector</p>
+          <h2>hasil pengecekan syntax terbaru</h2>
+        </div>
+      </div>
+      <div class="terminal-stack">
+        <div class="terminal-line">
+          <span class="terminal-key">status</span>
+          <span class="status-pill status-<%= messageInspector.ok ? 'connected' : 'error' %>"><%= messageInspector.ok ? 'aman' : 'error' %></span>
+        </div>
+        <div class="terminal-line">
+          <span class="terminal-key">line</span>
+          <span><%= messageInspector.line || '-' %></span>
+        </div>
+      </div>
+      <% if (!messageInspector.ok) { %>
+        <label class="field">
+          <span>error</span>
+          <textarea readonly><%= messageInspector.error || '' %></textarea>
+        </label>
+        <label class="field">
+          <span>full case block</span>
+          <textarea readonly><%= messageInspector.caseBlock || '-' %></textarea>
+        </label>
+        <label class="field">
+          <span>full function block</span>
+          <textarea readonly><%= messageInspector.functionBlock || '-' %></textarea>
+        </label>
+      <% } %>
+    </section>
+  </section>
+</div>
+
+<%- include("partials/footer") %>
