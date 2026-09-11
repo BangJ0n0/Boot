@@ -1,0 +1,3547 @@
+[
+  {
+    "_id": "f6b03158-be77-4278-874a-fd9815cfdcb1",
+    "kind": "request_started",
+    "phone": "6288801074059",
+    "status": "requesting",
+    "code": null,
+    "error": null,
+    "meta": {
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T15:57:30.266Z",
+    "updatedAt": "2026-04-20T15:57:30.266Z"
+  },
+  {
+    "_id": "89c55916-6385-4074-83e2-a5b9b37bebe8",
+    "kind": "code_ready",
+    "phone": "6288801074059",
+    "status": "code_ready",
+    "code": "BBBBBBBB",
+    "error": null,
+    "meta": {
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T15:57:30.479Z",
+    "updatedAt": "2026-04-20T15:57:30.479Z"
+  },
+  {
+    "_id": "cdc86776-fb1e-42a7-a073-894ccc8d3768",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Stream Errored (restart required)",
+    "meta": {
+      "reason": 515,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T15:57:44.335Z",
+    "updatedAt": "2026-04-20T15:57:44.335Z"
+  },
+  {
+    "_id": "8c88caf5-4743-4762-b4db-7786f1218696",
+    "kind": "connected",
+    "phone": "6288801074059",
+    "status": "connected",
+    "code": null,
+    "error": null,
+    "meta": {
+      "jid": "6288801074059:41@s.whatsapp.net",
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T15:57:51.589Z",
+    "updatedAt": "2026-04-20T15:57:51.589Z"
+  },
+  {
+    "_id": "9662f904-9cd1-41e2-a148-1f469c9e83c7",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T15:59:28.262Z",
+    "updatedAt": "2026-04-20T15:59:28.262Z"
+  },
+  {
+    "_id": "9754f1d5-5aaf-4e7b-9e24-8bb57eac74a1",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T16:02:12.697Z",
+    "updatedAt": "2026-04-20T16:02:12.697Z"
+  },
+  {
+    "_id": "c4ca8dbe-7573-4ead-8e49-b191987ed91e",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Stream Errored (unknown)",
+    "meta": {
+      "reason": 503,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T16:03:34.432Z",
+    "updatedAt": "2026-04-20T16:03:34.432Z"
+  },
+  {
+    "_id": "cbf6bba0-edb8-4a10-91ea-5cc7d5320b83",
+    "kind": "connected",
+    "phone": "6288801074059",
+    "status": "connected",
+    "code": null,
+    "error": null,
+    "meta": {
+      "jid": "6288801074059:41@s.whatsapp.net",
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T16:03:54.968Z",
+    "updatedAt": "2026-04-20T16:03:54.968Z"
+  },
+  {
+    "_id": "8e8a7ab9-974d-4fde-890a-b3cff80c48ff",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T16:04:57.258Z",
+    "updatedAt": "2026-04-20T16:04:57.258Z"
+  },
+  {
+    "_id": "0df46569-7759-46b2-ab7e-b4d9004569fc",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T16:07:41.782Z",
+    "updatedAt": "2026-04-20T16:07:41.782Z"
+  },
+  {
+    "_id": "3d10c62b-ee9d-4dac-bb45-b0a40ee39144",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T16:10:26.604Z",
+    "updatedAt": "2026-04-20T16:10:26.604Z"
+  },
+  {
+    "_id": "10aedc52-090b-4fff-b29b-bc8fe0302ede",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T16:13:11.155Z",
+    "updatedAt": "2026-04-20T16:13:11.155Z"
+  },
+  {
+    "_id": "992b02a1-b0c9-4319-ad98-d26b2109edb2",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Terminated",
+    "meta": {
+      "reason": 428,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T16:19:19.520Z",
+    "updatedAt": "2026-04-20T16:19:19.520Z"
+  },
+  {
+    "_id": "2170b0fb-5921-4591-be62-fb42ac4e74a1",
+    "kind": "connected",
+    "phone": "6288801074059",
+    "status": "connected",
+    "code": null,
+    "error": null,
+    "meta": {
+      "jid": "6288801074059:41@s.whatsapp.net",
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T16:19:25.830Z",
+    "updatedAt": "2026-04-20T16:19:25.830Z"
+  },
+  {
+    "_id": "26f6a9f3-bd2d-40c9-b4cf-850afd63d4de",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "Connection Terminated",
+    "meta": {
+      "reason": 428,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T16:20:21.073Z",
+    "updatedAt": "2026-04-20T16:20:21.073Z"
+  },
+  {
+    "_id": "3b4f708a-6f0f-43ff-91f9-d37fb4c1a9d0",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Terminated",
+    "meta": {
+      "reason": 428,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T16:20:23.928Z",
+    "updatedAt": "2026-04-20T16:20:23.928Z"
+  },
+  {
+    "_id": "c2e31271-724d-42bd-93ce-e875bb22ac8d",
+    "kind": "connected",
+    "phone": "6288801074059",
+    "status": "connected",
+    "code": null,
+    "error": null,
+    "meta": {
+      "jid": "6288801074059:41@s.whatsapp.net",
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T16:20:28.566Z",
+    "updatedAt": "2026-04-20T16:20:28.566Z"
+  },
+  {
+    "_id": "5c7d7b3b-53f8-459d-8ad2-d1b122d7ed4f",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T16:23:05.332Z",
+    "updatedAt": "2026-04-20T16:23:05.332Z"
+  },
+  {
+    "_id": "0fc0d9d8-cf1e-4d55-ab40-995b14276d9c",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T16:25:49.392Z",
+    "updatedAt": "2026-04-20T16:25:49.392Z"
+  },
+  {
+    "_id": "710055d8-8aa7-48d3-bbf9-a179187fcfc3",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T16:28:33.532Z",
+    "updatedAt": "2026-04-20T16:28:33.532Z"
+  },
+  {
+    "_id": "19f493da-2f1f-4b11-a279-a20384facd6c",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T16:31:17.629Z",
+    "updatedAt": "2026-04-20T16:31:17.629Z"
+  },
+  {
+    "_id": "66daa707-1137-4f38-988e-4ecd97cb530c",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "WebSocket Error (read ECONNRESET)",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T16:31:40.024Z",
+    "updatedAt": "2026-04-20T16:31:40.024Z"
+  },
+  {
+    "_id": "c869417d-4298-47b7-9916-4d515677eabc",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T16:34:24.214Z",
+    "updatedAt": "2026-04-20T16:34:24.214Z"
+  },
+  {
+    "_id": "0d79e4fe-aa19-4997-9c6b-4f94d35adae1",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T16:37:08.439Z",
+    "updatedAt": "2026-04-20T16:37:08.439Z"
+  },
+  {
+    "_id": "fe56761d-6d4f-4cc8-af3c-f7e4fdc820ce",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T16:39:52.607Z",
+    "updatedAt": "2026-04-20T16:39:52.607Z"
+  },
+  {
+    "_id": "33f2f687-131c-4a68-9f79-2c23fccbd282",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T16:42:36.791Z",
+    "updatedAt": "2026-04-20T16:42:36.791Z"
+  },
+  {
+    "_id": "514efec3-af9a-4828-8174-538c1bd5306e",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "WebSocket Error (read ECONNRESET)",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T16:42:59.180Z",
+    "updatedAt": "2026-04-20T16:42:59.180Z"
+  },
+  {
+    "_id": "c26bc7f0-9b86-442c-847d-47bddc8b79ff",
+    "kind": "connected",
+    "phone": "6288801074059",
+    "status": "connected",
+    "code": null,
+    "error": null,
+    "meta": {
+      "jid": "6288801074059:41@s.whatsapp.net",
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T16:45:59.950Z",
+    "updatedAt": "2026-04-20T16:45:59.950Z"
+  },
+  {
+    "_id": "16d32d9c-239e-4451-a903-1b1810482d5f",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T16:48:39.261Z",
+    "updatedAt": "2026-04-20T16:48:39.261Z"
+  },
+  {
+    "_id": "13ce92ef-f246-429b-a598-fb1de3685f58",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T16:51:24.188Z",
+    "updatedAt": "2026-04-20T16:51:24.188Z"
+  },
+  {
+    "_id": "50f1e972-4a4d-463b-88fe-f176b9a499ac",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T16:54:11.151Z",
+    "updatedAt": "2026-04-20T16:54:11.151Z"
+  },
+  {
+    "_id": "d9fa2898-a6ba-4a11-b970-5b8d06525ab6",
+    "kind": "connected",
+    "phone": "6288801074059",
+    "status": "connected",
+    "code": null,
+    "error": null,
+    "meta": {
+      "jid": "6288801074059:41@s.whatsapp.net",
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T16:58:55.969Z",
+    "updatedAt": "2026-04-20T16:58:55.969Z"
+  },
+  {
+    "_id": "4f56aa27-b597-4718-b7ba-08040ea0851d",
+    "kind": "connected",
+    "phone": "6288801074059",
+    "status": "connected",
+    "code": null,
+    "error": null,
+    "meta": {
+      "jid": "6288801074059:41@s.whatsapp.net",
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T17:00:54.015Z",
+    "updatedAt": "2026-04-20T17:00:54.015Z"
+  },
+  {
+    "_id": "318eabeb-5741-4c38-b836-489cd29df9c9",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T17:03:33.134Z",
+    "updatedAt": "2026-04-20T17:03:33.134Z"
+  },
+  {
+    "_id": "6c61b09f-40e4-4d17-8a05-31788e158aba",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T17:06:17.201Z",
+    "updatedAt": "2026-04-20T17:06:17.201Z"
+  },
+  {
+    "_id": "0e512b0b-477e-40ff-80c3-0a8c8d89010e",
+    "kind": "connected",
+    "phone": "6288801074059",
+    "status": "connected",
+    "code": null,
+    "error": null,
+    "meta": {
+      "jid": "6288801074059:41@s.whatsapp.net",
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T17:08:18.447Z",
+    "updatedAt": "2026-04-20T17:08:18.447Z"
+  },
+  {
+    "_id": "b9c8ba48-e22f-47c3-b004-eca8789cd2ce",
+    "kind": "connected",
+    "phone": "6288801074059",
+    "status": "connected",
+    "code": null,
+    "error": null,
+    "meta": {
+      "jid": "6288801074059:41@s.whatsapp.net",
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T17:09:08.538Z",
+    "updatedAt": "2026-04-20T17:09:08.538Z"
+  },
+  {
+    "_id": "83733bde-e3e0-4c72-802f-2c1d5cfe519f",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanz",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T17:11:48.044Z",
+    "updatedAt": "2026-04-20T17:11:48.044Z"
+  },
+  {
+    "_id": "17a74be1-c2cf-4df3-aefa-c51ac49a9eed",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T17:11:48.061Z",
+    "updatedAt": "2026-04-20T17:11:48.061Z"
+  },
+  {
+    "_id": "076e7623-5a7e-4def-85bd-1a2d221ebe90",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanz",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T17:14:49.519Z",
+    "updatedAt": "2026-04-20T17:14:49.519Z"
+  },
+  {
+    "_id": "adf05743-5886-4df2-ac46-0df756a429ca",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T17:14:51.567Z",
+    "updatedAt": "2026-04-20T17:14:51.567Z"
+  },
+  {
+    "_id": "7f8794a7-4c8b-43cd-9eed-61ee05b2d638",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "An internal server error occurred",
+    "meta": {
+      "reason": 500,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanz",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T17:15:33.478Z",
+    "updatedAt": "2026-04-20T17:15:33.478Z"
+  },
+  {
+    "_id": "73e6515d-96cc-413c-b020-dd0c17b5e47f",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T17:17:44.938Z",
+    "updatedAt": "2026-04-20T17:17:44.938Z"
+  },
+  {
+    "_id": "af9493b1-9120-4617-8cdb-ac1217b67ddd",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanz",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T17:18:18.275Z",
+    "updatedAt": "2026-04-20T17:18:18.275Z"
+  },
+  {
+    "_id": "1b112802-91f8-4d34-b489-930aff3954d9",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "WebSocket Error (read ECONNRESET)",
+    "meta": {
+      "reason": 408,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T17:20:41.909Z",
+    "updatedAt": "2026-04-20T17:20:41.909Z"
+  },
+  {
+    "_id": "0e2cfed6-874f-4d01-a72e-ef2461612cf3",
+    "kind": "connected",
+    "phone": "6288801074059",
+    "status": "connected",
+    "code": null,
+    "error": null,
+    "meta": {
+      "jid": "6288801074059:41@s.whatsapp.net",
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T17:20:47.205Z",
+    "updatedAt": "2026-04-20T17:20:47.205Z"
+  },
+  {
+    "_id": "9f6a7db7-aa84-484f-a1a7-2696573ad209",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T17:23:03.705Z",
+    "updatedAt": "2026-04-20T17:23:03.705Z"
+  },
+  {
+    "_id": "dc163096-9870-4adc-9970-ac8b7b264065",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanz",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T17:25:15.734Z",
+    "updatedAt": "2026-04-20T17:25:15.734Z"
+  },
+  {
+    "_id": "9bfdcabc-2e99-41ea-afff-b7b1bcf6a906",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T17:25:48.290Z",
+    "updatedAt": "2026-04-20T17:25:48.290Z"
+  },
+  {
+    "_id": "2b21cae5-4658-4538-b2c5-2c4f4cea5bac",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanz",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T17:27:59.855Z",
+    "updatedAt": "2026-04-20T17:27:59.855Z"
+  },
+  {
+    "_id": "1313e013-b0ea-4177-96c5-f7df1b9c9432",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T17:28:32.525Z",
+    "updatedAt": "2026-04-20T17:28:32.525Z"
+  },
+  {
+    "_id": "4c9267ad-5995-4fe5-b084-4e57d262cac2",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanz",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T17:30:44.857Z",
+    "updatedAt": "2026-04-20T17:30:44.857Z"
+  },
+  {
+    "_id": "94468af1-9949-4bc7-8e58-bcddda2cb054",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T17:31:18.757Z",
+    "updatedAt": "2026-04-20T17:31:18.757Z"
+  },
+  {
+    "_id": "7b182cec-1a1c-458d-afab-1c6bc21f6697",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanz",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T17:33:29.524Z",
+    "updatedAt": "2026-04-20T17:33:29.524Z"
+  },
+  {
+    "_id": "7b7bfb8e-7018-4164-92c4-4f3ecabcc23e",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T17:34:03.715Z",
+    "updatedAt": "2026-04-20T17:34:03.715Z"
+  },
+  {
+    "_id": "71b1bb97-4118-43ea-ba08-c68fd3d8906e",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanz",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T17:36:14.104Z",
+    "updatedAt": "2026-04-20T17:36:14.104Z"
+  },
+  {
+    "_id": "b28865a1-46e3-40c6-8945-682454919cc0",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T17:36:48.505Z",
+    "updatedAt": "2026-04-20T17:36:48.505Z"
+  },
+  {
+    "_id": "b3d60354-422d-4baa-8f8f-a331dcf6d870",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanz",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T17:38:58.701Z",
+    "updatedAt": "2026-04-20T17:38:58.701Z"
+  },
+  {
+    "_id": "2012aae2-32f1-4849-ba43-4b537de3370e",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T17:39:33.097Z",
+    "updatedAt": "2026-04-20T17:39:33.097Z"
+  },
+  {
+    "_id": "b0c66d5a-b1f7-4ba0-81f6-b89276c70d79",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanz",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T17:41:42.974Z",
+    "updatedAt": "2026-04-20T17:41:42.974Z"
+  },
+  {
+    "_id": "995f70bd-de16-4eba-88c1-c23880f987c3",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "WebSocket Error (read ECONNRESET)",
+    "meta": {
+      "reason": 408,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanz",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T17:42:05.139Z",
+    "updatedAt": "2026-04-20T17:42:05.139Z"
+  },
+  {
+    "_id": "c8b4d20f-54ad-4d90-97de-b409ef9b9fa3",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T17:42:17.317Z",
+    "updatedAt": "2026-04-20T17:42:17.317Z"
+  },
+  {
+    "_id": "f3da7630-53d4-4a15-bf3c-4190a4b5118f",
+    "kind": "connected",
+    "phone": "6288801074059",
+    "status": "connected",
+    "code": null,
+    "error": null,
+    "meta": {
+      "jid": "6288801074059:41@s.whatsapp.net",
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T17:43:10.652Z",
+    "updatedAt": "2026-04-20T17:43:10.652Z"
+  },
+  {
+    "_id": "dbc8ebdc-a699-4f92-94b1-56a3c1707a1e",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T17:45:50.119Z",
+    "updatedAt": "2026-04-20T17:45:50.119Z"
+  },
+  {
+    "_id": "703f5ff5-8be7-4204-9fe9-a536d4ca084a",
+    "kind": "connected",
+    "phone": "6288801074059",
+    "status": "connected",
+    "code": null,
+    "error": null,
+    "meta": {
+      "jid": "6288801074059:41@s.whatsapp.net",
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T17:46:28.949Z",
+    "updatedAt": "2026-04-20T17:46:28.949Z"
+  },
+  {
+    "_id": "6f5823b8-936b-4050-8ad7-569f53c14159",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "WebSocket Error (read ECONNRESET)",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T17:46:42.533Z",
+    "updatedAt": "2026-04-20T17:46:42.533Z"
+  },
+  {
+    "_id": "2c241026-8482-4cec-9fe9-b3c9af53bd09",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T17:49:26.763Z",
+    "updatedAt": "2026-04-20T17:49:26.763Z"
+  },
+  {
+    "_id": "8d911a14-30b2-4cb8-bd9e-1c44586190f3",
+    "kind": "connected",
+    "phone": "6288801074059",
+    "status": "connected",
+    "code": null,
+    "error": null,
+    "meta": {
+      "jid": "6288801074059:41@s.whatsapp.net",
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T17:50:38.388Z",
+    "updatedAt": "2026-04-20T17:50:38.388Z"
+  },
+  {
+    "_id": "0f41993d-900c-4930-a576-b0eb04d70918",
+    "kind": "connected",
+    "phone": "6288801074059",
+    "status": "connected",
+    "code": null,
+    "error": null,
+    "meta": {
+      "jid": "6288801074059:41@s.whatsapp.net",
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T17:52:04.231Z",
+    "updatedAt": "2026-04-20T17:52:04.231Z"
+  },
+  {
+    "_id": "0c24aeb4-d283-4e3a-a892-a613109520be",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T17:53:17.600Z",
+    "updatedAt": "2026-04-20T17:53:17.600Z"
+  },
+  {
+    "_id": "dcdf4e4f-0e3d-48e9-8b74-c426f933bb73",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T17:56:02.039Z",
+    "updatedAt": "2026-04-20T17:56:02.039Z"
+  },
+  {
+    "_id": "2e9eb2e1-7494-4491-864f-e20d9a46a48f",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T17:58:46.327Z",
+    "updatedAt": "2026-04-20T17:58:46.327Z"
+  },
+  {
+    "_id": "ff443e14-2173-47cf-8b3f-4d78e2309167",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T18:01:30.535Z",
+    "updatedAt": "2026-04-20T18:01:30.535Z"
+  },
+  {
+    "_id": "77d4d73c-b445-40fb-bf13-6f92ccfb597b",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T18:04:22.616Z",
+    "updatedAt": "2026-04-20T18:04:22.616Z"
+  },
+  {
+    "_id": "204afdbb-e5ff-4afb-8c2f-8264256cdaa9",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T18:07:14.378Z",
+    "updatedAt": "2026-04-20T18:07:14.378Z"
+  },
+  {
+    "_id": "4edc7692-01ad-45d9-adb2-312f2e395ee0",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T18:09:59.306Z",
+    "updatedAt": "2026-04-20T18:09:59.306Z"
+  },
+  {
+    "_id": "4c0b0b4c-f170-463b-b01b-6d78e27a570b",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "An internal server error occurred",
+    "meta": {
+      "reason": 500,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T18:10:43.798Z",
+    "updatedAt": "2026-04-20T18:10:43.798Z"
+  },
+  {
+    "_id": "20395e7b-dac1-456f-9b67-4b20ec919836",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T18:14:03.548Z",
+    "updatedAt": "2026-04-20T18:14:03.548Z"
+  },
+  {
+    "_id": "5ac89d98-e3e3-418f-ad9b-dbc9dac1d536",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T18:16:48.068Z",
+    "updatedAt": "2026-04-20T18:16:48.068Z"
+  },
+  {
+    "_id": "e9723aa3-451a-4e17-b683-815404fdff99",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T18:19:32.727Z",
+    "updatedAt": "2026-04-20T18:19:32.727Z"
+  },
+  {
+    "_id": "eeaf8e98-e37d-4536-93f3-2e91c31fe303",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T18:22:16.991Z",
+    "updatedAt": "2026-04-20T18:22:16.991Z"
+  },
+  {
+    "_id": "bfdabedb-fb56-4e9e-83d8-a2b54d1d8ff3",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T18:25:01.102Z",
+    "updatedAt": "2026-04-20T18:25:01.102Z"
+  },
+  {
+    "_id": "9883d516-7582-469f-861b-a650379a74e8",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T18:27:45.471Z",
+    "updatedAt": "2026-04-20T18:27:45.471Z"
+  },
+  {
+    "_id": "741513c5-2c70-4c7a-a924-5ea1545cd1c9",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T18:30:30.014Z",
+    "updatedAt": "2026-04-20T18:30:30.014Z"
+  },
+  {
+    "_id": "d2665596-b087-4f45-aca8-b9899e994be8",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T18:33:14.694Z",
+    "updatedAt": "2026-04-20T18:33:14.694Z"
+  },
+  {
+    "_id": "690ae92c-5c90-4d52-810e-ec4895d984b0",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Stream Errored (unknown)",
+    "meta": {
+      "reason": 503,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:33:28.490Z",
+    "updatedAt": "2026-04-20T18:33:28.490Z"
+  },
+  {
+    "_id": "8f029a20-a424-4203-a47c-86a5c8da14e2",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:33:35.975Z",
+    "updatedAt": "2026-04-20T18:33:35.975Z"
+  },
+  {
+    "_id": "bf9ee5a7-608b-4e16-a6ab-7ecf0a95edf6",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:33:43.427Z",
+    "updatedAt": "2026-04-20T18:33:43.427Z"
+  },
+  {
+    "_id": "3bc658c5-e511-4dee-a410-a84191787d06",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:33:52.572Z",
+    "updatedAt": "2026-04-20T18:33:52.572Z"
+  },
+  {
+    "_id": "60af680d-75f7-483a-91db-2455a1241189",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:33:58.758Z",
+    "updatedAt": "2026-04-20T18:33:58.758Z"
+  },
+  {
+    "_id": "957e9398-9bde-437e-a515-30ef8ad76e4b",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:34:06.979Z",
+    "updatedAt": "2026-04-20T18:34:06.979Z"
+  },
+  {
+    "_id": "892dbfb1-408b-4693-9a87-dcb05efa6b3d",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:34:15.599Z",
+    "updatedAt": "2026-04-20T18:34:15.599Z"
+  },
+  {
+    "_id": "b3259413-9028-43da-a7bb-d16150e18fbd",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:34:23.093Z",
+    "updatedAt": "2026-04-20T18:34:23.093Z"
+  },
+  {
+    "_id": "e2405f4a-4086-4be2-aa81-290f8fcf5116",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:34:28.644Z",
+    "updatedAt": "2026-04-20T18:34:28.644Z"
+  },
+  {
+    "_id": "1168d6b2-1972-4121-9dfa-6b17e38a2037",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:34:33.100Z",
+    "updatedAt": "2026-04-20T18:34:33.100Z"
+  },
+  {
+    "_id": "ecd175a7-7c5f-44aa-bc27-a1965ac04834",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:34:41.514Z",
+    "updatedAt": "2026-04-20T18:34:41.514Z"
+  },
+  {
+    "_id": "3404a048-58a9-45e7-a888-863ab5bae26b",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:34:48.561Z",
+    "updatedAt": "2026-04-20T18:34:48.561Z"
+  },
+  {
+    "_id": "4a1b21a4-9aee-435c-8383-c0762ecbcbf5",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:34:54.554Z",
+    "updatedAt": "2026-04-20T18:34:54.554Z"
+  },
+  {
+    "_id": "7c63f525-e29b-4c49-8c5d-30f1e0b024f3",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:34:59.441Z",
+    "updatedAt": "2026-04-20T18:34:59.441Z"
+  },
+  {
+    "_id": "39c8e353-ee04-4c61-879f-14f9df6235d1",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:35:07.810Z",
+    "updatedAt": "2026-04-20T18:35:07.810Z"
+  },
+  {
+    "_id": "d9366c88-43d7-4e1c-8531-9ec267d860c2",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:35:13.009Z",
+    "updatedAt": "2026-04-20T18:35:13.009Z"
+  },
+  {
+    "_id": "9ced48eb-01ec-44c1-8344-e0bc234a5a33",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:35:21.502Z",
+    "updatedAt": "2026-04-20T18:35:21.502Z"
+  },
+  {
+    "_id": "566e0394-ff10-4d6b-872e-a11496b9981e",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:35:27.001Z",
+    "updatedAt": "2026-04-20T18:35:27.001Z"
+  },
+  {
+    "_id": "d7f75bee-ea18-4345-80f6-052adb303dfd",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:35:33.301Z",
+    "updatedAt": "2026-04-20T18:35:33.301Z"
+  },
+  {
+    "_id": "3e034c06-6d07-4561-ad13-16bede7a4927",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:35:40.416Z",
+    "updatedAt": "2026-04-20T18:35:40.416Z"
+  },
+  {
+    "_id": "c25edc72-3502-419e-8439-558f7787d083",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:35:49.035Z",
+    "updatedAt": "2026-04-20T18:35:49.035Z"
+  },
+  {
+    "_id": "0e9cdc61-bdbd-4955-8b2d-2405df46d62e",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:35:57.195Z",
+    "updatedAt": "2026-04-20T18:35:57.195Z"
+  },
+  {
+    "_id": "c4333b76-152d-44bd-a3cf-43345ba70ce4",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T18:35:58.884Z",
+    "updatedAt": "2026-04-20T18:35:58.884Z"
+  },
+  {
+    "_id": "263f9de5-dda5-4111-a4f8-084c7e79cad6",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:36:04.216Z",
+    "updatedAt": "2026-04-20T18:36:04.216Z"
+  },
+  {
+    "_id": "6d273858-6d4b-444e-bb19-f277f1de319d",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:36:12.364Z",
+    "updatedAt": "2026-04-20T18:36:12.364Z"
+  },
+  {
+    "_id": "8277123d-a633-479b-94e9-3caf34763f37",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:36:16.749Z",
+    "updatedAt": "2026-04-20T18:36:16.749Z"
+  },
+  {
+    "_id": "cfd817fe-42a1-46ac-ad69-69bb5ed0b944",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:36:24.515Z",
+    "updatedAt": "2026-04-20T18:36:24.515Z"
+  },
+  {
+    "_id": "9984567e-ebe9-4839-9425-659acffdfb1a",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:36:33.468Z",
+    "updatedAt": "2026-04-20T18:36:33.468Z"
+  },
+  {
+    "_id": "e7f48545-bf48-4366-8e11-bb1494c4fcbb",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:36:39.821Z",
+    "updatedAt": "2026-04-20T18:36:39.821Z"
+  },
+  {
+    "_id": "b38e2fc8-de73-49fa-807b-06c13486f2cf",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:36:46.054Z",
+    "updatedAt": "2026-04-20T18:36:46.054Z"
+  },
+  {
+    "_id": "6e204ef9-a220-4e15-b297-166cd8282a01",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:36:50.924Z",
+    "updatedAt": "2026-04-20T18:36:50.924Z"
+  },
+  {
+    "_id": "7306c591-62c0-4d36-a619-b6230ad46bc3",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:36:57.481Z",
+    "updatedAt": "2026-04-20T18:36:57.481Z"
+  },
+  {
+    "_id": "66be1c86-38cd-408b-9f1b-362d0713795f",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:37:06.869Z",
+    "updatedAt": "2026-04-20T18:37:06.869Z"
+  },
+  {
+    "_id": "4427ad6b-814d-41a8-b809-0137da7d89ad",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:37:13.681Z",
+    "updatedAt": "2026-04-20T18:37:13.681Z"
+  },
+  {
+    "_id": "18a4442b-1259-4590-8bb4-bb11d741bd3a",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:37:19.275Z",
+    "updatedAt": "2026-04-20T18:37:19.275Z"
+  },
+  {
+    "_id": "5ea72c54-c08f-4cfa-8ad3-935e9d7d2d5f",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:37:24.068Z",
+    "updatedAt": "2026-04-20T18:37:24.068Z"
+  },
+  {
+    "_id": "02851dfd-d838-4223-886c-10a7676ed1bb",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:37:29.750Z",
+    "updatedAt": "2026-04-20T18:37:29.750Z"
+  },
+  {
+    "_id": "be112186-8ba6-4b8e-acfd-f5c4fc6f0bbc",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:37:38.468Z",
+    "updatedAt": "2026-04-20T18:37:38.468Z"
+  },
+  {
+    "_id": "e8e5ce80-80ce-4dda-a0a3-bdfa584bba74",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:37:45.690Z",
+    "updatedAt": "2026-04-20T18:37:45.690Z"
+  },
+  {
+    "_id": "aff606a3-076e-465d-9faf-ef9d8d27b98b",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:37:54.736Z",
+    "updatedAt": "2026-04-20T18:37:54.736Z"
+  },
+  {
+    "_id": "780feb04-a93f-43b2-9ea7-15da7d26a538",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:38:02.333Z",
+    "updatedAt": "2026-04-20T18:38:02.333Z"
+  },
+  {
+    "_id": "2cc5f681-2be0-4b20-b8a2-bc674276b75d",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:38:09.379Z",
+    "updatedAt": "2026-04-20T18:38:09.379Z"
+  },
+  {
+    "_id": "114b9806-dfb8-45b4-8803-c9888e5c9f67",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:38:16.187Z",
+    "updatedAt": "2026-04-20T18:38:16.187Z"
+  },
+  {
+    "_id": "dfdc9607-8d93-489b-8873-24ad401a8a2e",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:38:22.690Z",
+    "updatedAt": "2026-04-20T18:38:22.690Z"
+  },
+  {
+    "_id": "c9d79560-ffc9-4094-8740-abca743f9f94",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:38:27.634Z",
+    "updatedAt": "2026-04-20T18:38:27.634Z"
+  },
+  {
+    "_id": "ee681366-cf9f-408b-88d6-83bc4e33f010",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:38:34.670Z",
+    "updatedAt": "2026-04-20T18:38:34.670Z"
+  },
+  {
+    "_id": "d05aaf7a-0d2f-46b0-990f-107d0bd34efc",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:38:41.972Z",
+    "updatedAt": "2026-04-20T18:38:41.972Z"
+  },
+  {
+    "_id": "2a1aa727-2ed8-4820-9bb4-06ad6af38f7d",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T18:38:42.947Z",
+    "updatedAt": "2026-04-20T18:38:42.947Z"
+  },
+  {
+    "_id": "fffb0cad-2af6-4932-aeb4-209962896b34",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:38:47.972Z",
+    "updatedAt": "2026-04-20T18:38:47.972Z"
+  },
+  {
+    "_id": "3387641d-e0c2-4d7f-8406-51f74f740f01",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:38:54.259Z",
+    "updatedAt": "2026-04-20T18:38:54.259Z"
+  },
+  {
+    "_id": "d8ef97d4-09c1-4b67-9a00-32c605c362ce",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:39:03.138Z",
+    "updatedAt": "2026-04-20T18:39:03.138Z"
+  },
+  {
+    "_id": "2bcd2b9c-068b-4178-9b2b-005a2a3d6ed3",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "WebSocket Error (read ECONNRESET)",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T18:39:05.329Z",
+    "updatedAt": "2026-04-20T18:39:05.329Z"
+  },
+  {
+    "_id": "d98b5755-44dc-45a9-86fd-4ba3617b1dd5",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "WebSocket Error (read ECONNRESET)",
+    "meta": {
+      "reason": 408,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:39:25.536Z",
+    "updatedAt": "2026-04-20T18:39:25.540Z"
+  },
+  {
+    "_id": "e1a71304-cf05-4359-8a0b-914c2806d4bd",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:39:34.509Z",
+    "updatedAt": "2026-04-20T18:39:34.509Z"
+  },
+  {
+    "_id": "b1cf8e52-8085-4f35-b4ea-7e432929dcf0",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:39:39.095Z",
+    "updatedAt": "2026-04-20T18:39:39.095Z"
+  },
+  {
+    "_id": "3171be30-acac-4168-9b95-3b10a845edf3",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:39:44.183Z",
+    "updatedAt": "2026-04-20T18:39:44.183Z"
+  },
+  {
+    "_id": "2ac66b4f-49e8-4704-9574-0071445e6196",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:39:48.846Z",
+    "updatedAt": "2026-04-20T18:39:48.846Z"
+  },
+  {
+    "_id": "e3aec709-ef74-41a8-90ac-32c4b5f8a7f9",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "WebSocket Error (read ECONNRESET)",
+    "meta": {
+      "reason": 408,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:40:10.962Z",
+    "updatedAt": "2026-04-20T18:40:10.962Z"
+  },
+  {
+    "_id": "6ba2f918-5032-416e-a340-7019e0c685bd",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Failure",
+    "meta": {
+      "reason": 403,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-20T18:40:15.293Z",
+    "updatedAt": "2026-04-20T18:40:15.293Z"
+  },
+  {
+    "_id": "506d49cc-6e86-40d0-a251-940d81707d31",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T18:41:49.846Z",
+    "updatedAt": "2026-04-20T18:41:49.846Z"
+  },
+  {
+    "_id": "476773de-60fe-4f4d-976f-bf235ed5e655",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T18:44:34.462Z",
+    "updatedAt": "2026-04-20T18:44:34.462Z"
+  },
+  {
+    "_id": "b7dd8104-29a7-4fe6-a36d-49ac00470038",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T18:47:18.599Z",
+    "updatedAt": "2026-04-20T18:47:18.599Z"
+  },
+  {
+    "_id": "d97411e1-4040-40ba-90d3-783936c116bd",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T18:50:02.962Z",
+    "updatedAt": "2026-04-20T18:50:02.962Z"
+  },
+  {
+    "_id": "b187b313-aaed-450a-a5b8-d5691f51b16c",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T18:52:47.274Z",
+    "updatedAt": "2026-04-20T18:52:47.274Z"
+  },
+  {
+    "_id": "c2d65335-1b22-435f-a0f7-de3c8488fa00",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T18:56:01.744Z",
+    "updatedAt": "2026-04-20T18:56:01.744Z"
+  },
+  {
+    "_id": "81c0c290-39a8-4b11-81b2-0bcbc37f1358",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T18:58:46.422Z",
+    "updatedAt": "2026-04-20T18:58:46.422Z"
+  },
+  {
+    "_id": "d3a509e8-dd2c-4f15-a6c3-6a30c63d1c88",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T19:02:46.964Z",
+    "updatedAt": "2026-04-20T19:02:46.964Z"
+  },
+  {
+    "_id": "cb76b8d4-fca4-4d46-801d-c5bd55488065",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T19:05:31.244Z",
+    "updatedAt": "2026-04-20T19:05:31.244Z"
+  },
+  {
+    "_id": "a1bdac40-d366-4168-aa68-5e95612f0337",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T19:08:15.464Z",
+    "updatedAt": "2026-04-20T19:08:15.464Z"
+  },
+  {
+    "_id": "513afb0e-c49d-4bc5-81b0-39db298dcf6e",
+    "kind": "request_started",
+    "phone": "6283110390167",
+    "status": "requesting",
+    "code": null,
+    "error": null,
+    "meta": {
+      "sessionId": "bff6ab43-8989-4ee5-bd39-0041bfd2e301__session-0167",
+      "ownerId": "bff6ab43-8989-4ee5-bd39-0041bfd2e301"
+    },
+    "createdAt": "2026-04-20T19:09:20.088Z",
+    "updatedAt": "2026-04-20T19:09:20.088Z"
+  },
+  {
+    "_id": "f79f65d5-d8ef-4faa-8b90-89088b35862c",
+    "kind": "code_ready",
+    "phone": "6283110390167",
+    "status": "code_ready",
+    "code": "BBBBBBBB",
+    "error": null,
+    "meta": {
+      "sessionId": "bff6ab43-8989-4ee5-bd39-0041bfd2e301__session-0167",
+      "ownerId": "bff6ab43-8989-4ee5-bd39-0041bfd2e301"
+    },
+    "createdAt": "2026-04-20T19:09:20.326Z",
+    "updatedAt": "2026-04-20T19:09:20.326Z"
+  },
+  {
+    "_id": "a08ce073-87b7-4b50-a4b8-9200fa25ff5b",
+    "kind": "connection_closed",
+    "phone": "6283110390167",
+    "status": "idle",
+    "code": null,
+    "error": "Stream Errored (restart required)",
+    "meta": {
+      "reason": 515,
+      "sessionId": "bff6ab43-8989-4ee5-bd39-0041bfd2e301__session-0167",
+      "ownerId": "bff6ab43-8989-4ee5-bd39-0041bfd2e301"
+    },
+    "createdAt": "2026-04-20T19:09:54.839Z",
+    "updatedAt": "2026-04-20T19:09:54.840Z"
+  },
+  {
+    "_id": "ab2bc12e-0ab9-44cb-9226-a028f345921f",
+    "kind": "connected",
+    "phone": "6283110390167",
+    "status": "connected",
+    "code": null,
+    "error": null,
+    "meta": {
+      "jid": "6283110390167:34@s.whatsapp.net",
+      "sessionId": "bff6ab43-8989-4ee5-bd39-0041bfd2e301__session-0167",
+      "ownerId": "bff6ab43-8989-4ee5-bd39-0041bfd2e301"
+    },
+    "createdAt": "2026-04-20T19:10:00.069Z",
+    "updatedAt": "2026-04-20T19:10:00.069Z"
+  },
+  {
+    "_id": "361eb44d-d51f-4d1e-97b5-96a8ee3535f4",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T19:10:59.653Z",
+    "updatedAt": "2026-04-20T19:10:59.653Z"
+  },
+  {
+    "_id": "d5151f0b-4c9d-43e7-8afd-617a821ae548",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T19:13:43.843Z",
+    "updatedAt": "2026-04-20T19:13:43.843Z"
+  },
+  {
+    "_id": "c9bb4f05-113a-45c2-94c6-b0c28869f55d",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T19:16:27.978Z",
+    "updatedAt": "2026-04-20T19:16:27.978Z"
+  },
+  {
+    "_id": "e26dc391-0926-4c9f-a36a-617823ea756f",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T19:19:12.029Z",
+    "updatedAt": "2026-04-20T19:19:12.029Z"
+  },
+  {
+    "_id": "03e6f181-e09c-476c-b0c1-8213511ecbd8",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T19:21:56.638Z",
+    "updatedAt": "2026-04-20T19:21:56.646Z"
+  },
+  {
+    "_id": "399beb1e-e719-407f-84dd-b332cb127413",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T19:24:41.794Z",
+    "updatedAt": "2026-04-20T19:24:41.794Z"
+  },
+  {
+    "_id": "9b7b4735-a57a-48e5-80c8-cde86d1d883b",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T19:27:26.275Z",
+    "updatedAt": "2026-04-20T19:27:26.275Z"
+  },
+  {
+    "_id": "a61e50c2-4156-4a14-a80b-f3a7ee8bddbb",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T19:30:10.549Z",
+    "updatedAt": "2026-04-20T19:30:10.549Z"
+  },
+  {
+    "_id": "be966e17-c84a-4e36-bdd8-2aba90c0eb1e",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T19:32:55.094Z",
+    "updatedAt": "2026-04-20T19:32:55.094Z"
+  },
+  {
+    "_id": "0ff9a178-0308-4ebc-b97b-001c62ba7de0",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T19:35:39.684Z",
+    "updatedAt": "2026-04-20T19:35:39.684Z"
+  },
+  {
+    "_id": "efee15cc-f88d-4f7c-8532-3034020c8a7c",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T19:38:23.859Z",
+    "updatedAt": "2026-04-20T19:38:23.859Z"
+  },
+  {
+    "_id": "2aa9ce95-4ce8-4ac7-b532-8f73347db2ce",
+    "kind": "connected",
+    "phone": "6283110390167",
+    "status": "connected",
+    "code": null,
+    "error": null,
+    "meta": {
+      "jid": "6283110390167:34@s.whatsapp.net",
+      "sessionId": "bff6ab43-8989-4ee5-bd39-0041bfd2e301__session-0167",
+      "ownerId": "bff6ab43-8989-4ee5-bd39-0041bfd2e301"
+    },
+    "createdAt": "2026-04-20T19:41:04.385Z",
+    "updatedAt": "2026-04-20T19:41:04.385Z"
+  },
+  {
+    "_id": "44d122ca-ba80-4bc3-9ae0-7a68e681b2e6",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T19:43:41.884Z",
+    "updatedAt": "2026-04-20T19:43:41.884Z"
+  },
+  {
+    "_id": "dab93807-d0ff-46ae-9be3-5331cf2f5cff",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T19:46:27.457Z",
+    "updatedAt": "2026-04-20T19:46:27.457Z"
+  },
+  {
+    "_id": "319b5f70-48a4-40d4-bf2f-240cfd9bfce3",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T19:49:12.321Z",
+    "updatedAt": "2026-04-20T19:49:12.321Z"
+  },
+  {
+    "_id": "760cec28-dda9-4f20-ad7f-cac589cd6685",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T19:51:57.777Z",
+    "updatedAt": "2026-04-20T19:51:57.777Z"
+  },
+  {
+    "_id": "d41f8369-043a-4ddb-a348-998c594d6bb6",
+    "kind": "connection_closed",
+    "phone": "6283110390167",
+    "status": "needs_pairing",
+    "code": null,
+    "error": "Session logout atau expired. Pairing ulang diperlukan.",
+    "meta": {
+      "reason": 401,
+      "sessionId": "bff6ab43-8989-4ee5-bd39-0041bfd2e301__session-0167",
+      "ownerId": "bff6ab43-8989-4ee5-bd39-0041bfd2e301"
+    },
+    "createdAt": "2026-04-20T19:52:29.526Z",
+    "updatedAt": "2026-04-20T19:52:29.526Z"
+  },
+  {
+    "_id": "46a3e386-1e8f-4cbe-92f6-7c5e529d13cc",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T19:54:42.242Z",
+    "updatedAt": "2026-04-20T19:54:42.242Z"
+  },
+  {
+    "_id": "9e0a3875-ce76-4646-90ca-090bf0915e89",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T19:57:26.596Z",
+    "updatedAt": "2026-04-20T19:57:26.596Z"
+  },
+  {
+    "_id": "dbd553cf-67d1-4abf-a108-664cb2645131",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T20:00:11.200Z",
+    "updatedAt": "2026-04-20T20:00:11.200Z"
+  },
+  {
+    "_id": "195df8aa-9d77-44d6-b8dd-4960a0d39b47",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T20:02:55.992Z",
+    "updatedAt": "2026-04-20T20:02:55.992Z"
+  },
+  {
+    "_id": "0c8f8745-2701-4c02-8532-1abb754c7def",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "Connection was lost",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T23:04:44.713Z",
+    "updatedAt": "2026-04-20T23:04:44.713Z"
+  },
+  {
+    "_id": "dc749cab-7ef1-4549-9564-13c99946237d",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "WebSocket Error (getaddrinfo ENOTFOUND web.whatsapp.com)",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-20T23:04:48.028Z",
+    "updatedAt": "2026-04-20T23:04:48.028Z"
+  },
+  {
+    "_id": "77c35253-4dfc-44cb-a661-625f2aab2041",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "WebSocket Error (getaddrinfo ENOTFOUND web.whatsapp.com)",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T03:17:19.686Z",
+    "updatedAt": "2026-04-21T03:17:19.686Z"
+  },
+  {
+    "_id": "6ed4ac76-0934-4b7d-bd9d-9710a816c250",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "Connection Terminated",
+    "meta": {
+      "reason": 428,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T03:18:23.654Z",
+    "updatedAt": "2026-04-21T03:18:23.654Z"
+  },
+  {
+    "_id": "92b76e88-0afc-4aad-b0c5-e00e45fe36a0",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "Connection Terminated",
+    "meta": {
+      "reason": 428,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T03:20:09.791Z",
+    "updatedAt": "2026-04-21T03:20:09.791Z"
+  },
+  {
+    "_id": "deef8867-0eee-4e33-bd50-4e171195a124",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "WebSocket Error (getaddrinfo ENOTFOUND web.whatsapp.com)",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T03:20:15.985Z",
+    "updatedAt": "2026-04-21T03:20:15.985Z"
+  },
+  {
+    "_id": "01b28afe-f3d0-4a5a-8c32-6d2cca4bb7bb",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "WebSocket Error (getaddrinfo ENOTFOUND web.whatsapp.com)",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T03:20:31.121Z",
+    "updatedAt": "2026-04-21T03:20:31.121Z"
+  },
+  {
+    "_id": "1c424251-6b0f-4c90-857e-c90448015674",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "WebSocket Error (getaddrinfo ENOTFOUND web.whatsapp.com)",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T03:20:46.263Z",
+    "updatedAt": "2026-04-21T03:20:46.263Z"
+  },
+  {
+    "_id": "812d63be-3b01-401c-9aa5-69fa3d0c4d00",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "WebSocket Error (getaddrinfo ENOTFOUND web.whatsapp.com)",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T03:21:01.566Z",
+    "updatedAt": "2026-04-21T03:21:01.566Z"
+  },
+  {
+    "_id": "a16a13ec-6433-43ed-b779-6f2b198c1cea",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T03:25:55.259Z",
+    "updatedAt": "2026-04-21T03:25:55.259Z"
+  },
+  {
+    "_id": "c43ae35e-2f93-46ea-b62a-ed41f7d2fb66",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T03:28:40.153Z",
+    "updatedAt": "2026-04-21T03:28:40.153Z"
+  },
+  {
+    "_id": "4734df62-7332-45b4-8a60-66e8a5d5bd3f",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T03:31:24.903Z",
+    "updatedAt": "2026-04-21T03:31:24.903Z"
+  },
+  {
+    "_id": "529c83e5-69f3-4bdd-a74e-489447a525db",
+    "kind": "request_started",
+    "phone": "6288801074059",
+    "status": "requesting",
+    "code": null,
+    "error": null,
+    "meta": {
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-21T03:31:47.746Z",
+    "updatedAt": "2026-04-21T03:31:47.746Z"
+  },
+  {
+    "_id": "29faa7ea-76d5-47e7-8a16-5f67096d5a25",
+    "kind": "request_failed",
+    "phone": "6288801074059",
+    "status": "error",
+    "code": null,
+    "error": "Koneksi WhatsApp sedang tertutup. Tunggu socket hidup lalu coba lagi.",
+    "meta": {
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-21T03:31:47.998Z",
+    "updatedAt": "2026-04-21T03:31:47.998Z"
+  },
+  {
+    "_id": "59ae2f35-c216-465e-9745-803dc9899d32",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "needs_pairing",
+    "code": null,
+    "error": "Session logout atau expired. Pairing ulang diperlukan.",
+    "meta": {
+      "reason": 401,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-21T10:50:11.460Z",
+    "updatedAt": "2026-04-21T10:50:11.460Z"
+  },
+  {
+    "_id": "0053c03c-92ec-4248-8174-a8d68785d1d2",
+    "kind": "request_started",
+    "phone": "6288801074059",
+    "status": "requesting",
+    "code": null,
+    "error": null,
+    "meta": {
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-21T10:51:14.487Z",
+    "updatedAt": "2026-04-21T10:51:14.487Z"
+  },
+  {
+    "_id": "62118249-626c-42aa-b602-6b5e27048020",
+    "kind": "code_ready",
+    "phone": "6288801074059",
+    "status": "code_ready",
+    "code": "BBBBBBBB",
+    "error": null,
+    "meta": {
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-21T10:51:14.714Z",
+    "updatedAt": "2026-04-21T10:51:14.714Z"
+  },
+  {
+    "_id": "dd8ae15a-7245-40a2-9d50-caedaa51645c",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Stream Errored (restart required)",
+    "meta": {
+      "reason": 515,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-21T10:51:38.297Z",
+    "updatedAt": "2026-04-21T10:51:38.297Z"
+  },
+  {
+    "_id": "86b3dd95-c631-4a07-9256-4c4ad3ed1ec5",
+    "kind": "connected",
+    "phone": "6288801074059",
+    "status": "connected",
+    "code": null,
+    "error": null,
+    "meta": {
+      "jid": "6288801074059:42@s.whatsapp.net",
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-21T10:51:45.474Z",
+    "updatedAt": "2026-04-21T10:51:45.474Z"
+  },
+  {
+    "_id": "24fb1d5e-395a-475e-ac42-53afc3144019",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T10:52:51.127Z",
+    "updatedAt": "2026-04-21T10:52:51.127Z"
+  },
+  {
+    "_id": "93bd322c-b6ae-4569-a5ea-bcdce5e0c77f",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T10:55:44.723Z",
+    "updatedAt": "2026-04-21T10:55:44.723Z"
+  },
+  {
+    "_id": "90f81e34-60b1-4ef9-b828-05d863a13526",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T10:58:29.175Z",
+    "updatedAt": "2026-04-21T10:58:29.175Z"
+  },
+  {
+    "_id": "f4441b7d-b73d-403f-a863-a91e4c4d7682",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T11:01:14.260Z",
+    "updatedAt": "2026-04-21T11:01:14.260Z"
+  },
+  {
+    "_id": "f8d91900-1c4d-4d29-9df4-3e06d84de288",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T11:04:00.232Z",
+    "updatedAt": "2026-04-21T11:04:00.232Z"
+  },
+  {
+    "_id": "44f6b21c-8b0b-4e2b-a26e-fec7634001ed",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T11:06:44.519Z",
+    "updatedAt": "2026-04-21T11:06:44.519Z"
+  },
+  {
+    "_id": "88364c4e-1c82-4501-baaa-748e25eb3ed3",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T11:09:28.884Z",
+    "updatedAt": "2026-04-21T11:09:28.884Z"
+  },
+  {
+    "_id": "1ea83663-f1e7-462c-8a12-bb9fffd02d44",
+    "kind": "connected",
+    "phone": "6288801074059",
+    "status": "connected",
+    "code": null,
+    "error": null,
+    "meta": {
+      "jid": "6288801074059:42@s.whatsapp.net",
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-21T11:11:11.514Z",
+    "updatedAt": "2026-04-21T11:11:11.514Z"
+  },
+  {
+    "_id": "7f80ab45-ee06-48bf-917e-4f8bde1a793b",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T11:13:51.099Z",
+    "updatedAt": "2026-04-21T11:13:51.099Z"
+  },
+  {
+    "_id": "e49cb05d-1aaa-44d8-88c9-73762cb38284",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "Connection Terminated",
+    "meta": {
+      "reason": 428,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T11:15:15.586Z",
+    "updatedAt": "2026-04-21T11:15:15.586Z"
+  },
+  {
+    "_id": "75c771d0-c78f-4fbe-9076-2555a0afe5f9",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "WebSocket Error (getaddrinfo ENOTFOUND web.whatsapp.com)",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T11:15:30.112Z",
+    "updatedAt": "2026-04-21T11:15:30.112Z"
+  },
+  {
+    "_id": "329b2c9b-6981-4276-95c6-4b417ba4169e",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "Connection Terminated",
+    "meta": {
+      "reason": 428,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T11:17:09.478Z",
+    "updatedAt": "2026-04-21T11:17:09.478Z"
+  },
+  {
+    "_id": "4033acbc-a4ce-409e-aeee-beda74655b9a",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Terminated",
+    "meta": {
+      "reason": 428,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-21T11:17:32.218Z",
+    "updatedAt": "2026-04-21T11:17:32.218Z"
+  },
+  {
+    "_id": "4830a80b-5fce-4dd3-99d1-dee8c9e8b61f",
+    "kind": "connected",
+    "phone": "6288801074059",
+    "status": "connected",
+    "code": null,
+    "error": null,
+    "meta": {
+      "jid": "6288801074059:42@s.whatsapp.net",
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-21T11:17:39.534Z",
+    "updatedAt": "2026-04-21T11:17:39.534Z"
+  },
+  {
+    "_id": "d92756b9-0065-49e0-a773-f45875e545d0",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T11:19:54.727Z",
+    "updatedAt": "2026-04-21T11:19:54.727Z"
+  },
+  {
+    "_id": "13077b43-b780-41ed-8514-f65a0cd7777f",
+    "kind": "connected",
+    "phone": "6288801074059",
+    "status": "connected",
+    "code": null,
+    "error": null,
+    "meta": {
+      "jid": "6288801074059:42@s.whatsapp.net",
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-21T11:21:55.712Z",
+    "updatedAt": "2026-04-21T11:21:55.712Z"
+  },
+  {
+    "_id": "4e6f534a-c2a5-4c8f-a4b4-077fdca7b3b2",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T11:24:35.017Z",
+    "updatedAt": "2026-04-21T11:24:35.017Z"
+  },
+  {
+    "_id": "6e299196-e066-4b28-b6ac-991ef650ca02",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T11:27:19.156Z",
+    "updatedAt": "2026-04-21T11:27:19.156Z"
+  },
+  {
+    "_id": "376a974f-c872-4428-ba4a-7b14252e4cd2",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T11:30:05.337Z",
+    "updatedAt": "2026-04-21T11:30:05.337Z"
+  },
+  {
+    "_id": "43f34cac-47ef-42bb-b088-2567d567e813",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T11:32:49.717Z",
+    "updatedAt": "2026-04-21T11:32:49.717Z"
+  },
+  {
+    "_id": "80d8d302-9d1c-41ac-8ce0-82aa9f4f4b05",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T11:35:34.372Z",
+    "updatedAt": "2026-04-21T11:35:34.372Z"
+  },
+  {
+    "_id": "7a592230-b527-4957-8c32-9f5b80727963",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T11:38:18.739Z",
+    "updatedAt": "2026-04-21T11:38:18.739Z"
+  },
+  {
+    "_id": "11a5b7f3-8d8f-40a8-ab7e-1bbd2c394063",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T11:41:03.429Z",
+    "updatedAt": "2026-04-21T11:41:03.429Z"
+  },
+  {
+    "_id": "c4703aef-af94-4158-9691-8daa805b31cd",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T11:43:47.971Z",
+    "updatedAt": "2026-04-21T11:43:47.971Z"
+  },
+  {
+    "_id": "358a5f74-455c-4738-9a94-a9e1d0449a92",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T11:46:32.785Z",
+    "updatedAt": "2026-04-21T11:46:32.785Z"
+  },
+  {
+    "_id": "d62d1afc-edcd-47c9-a5f7-db0f3eea4403",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "Connection Terminated",
+    "meta": {
+      "reason": 428,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T11:47:25.846Z",
+    "updatedAt": "2026-04-21T11:47:25.846Z"
+  },
+  {
+    "_id": "a3f5be00-3c45-4cb6-984f-4cfff8763e7d",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "WebSocket Error (read ECONNRESET)",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T11:47:53.041Z",
+    "updatedAt": "2026-04-21T11:47:53.041Z"
+  },
+  {
+    "_id": "4c6ce28d-6c0d-49da-a9b3-72bd2efc252d",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Terminated",
+    "meta": {
+      "reason": 428,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-21T11:48:28.222Z",
+    "updatedAt": "2026-04-21T11:48:28.222Z"
+  },
+  {
+    "_id": "1fe05d6a-6a07-48a3-bfa7-f2ca1255f4b5",
+    "kind": "connected",
+    "phone": "6288801074059",
+    "status": "connected",
+    "code": null,
+    "error": null,
+    "meta": {
+      "jid": "6288801074059:42@s.whatsapp.net",
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-21T11:48:33.056Z",
+    "updatedAt": "2026-04-21T11:48:33.056Z"
+  },
+  {
+    "_id": "f4987c9d-68ef-49aa-ab81-13907014ad50",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T11:50:48.895Z",
+    "updatedAt": "2026-04-21T11:50:48.895Z"
+  },
+  {
+    "_id": "50e49a14-dfa1-4bc8-a3a7-227b76b60620",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "Connection Terminated",
+    "meta": {
+      "reason": 428,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-21T11:52:38.134Z",
+    "updatedAt": "2026-04-21T11:52:38.134Z"
+  },
+  {
+    "_id": "3f3702ef-73d6-4b71-a849-550bc9411db9",
+    "kind": "connected",
+    "phone": "6288801074059",
+    "status": "connected",
+    "code": null,
+    "error": null,
+    "meta": {
+      "jid": "6288801074059:42@s.whatsapp.net",
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-21T11:52:42.991Z",
+    "updatedAt": "2026-04-21T11:52:42.991Z"
+  },
+  {
+    "_id": "a2c61367-399c-4f55-8a14-43522a45188a",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T11:53:33.578Z",
+    "updatedAt": "2026-04-21T11:53:33.578Z"
+  },
+  {
+    "_id": "5e26b21f-3b60-49d3-8145-0568bd806e70",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "needs_pairing",
+    "code": null,
+    "error": "Session logout atau expired. Pairing ulang diperlukan.",
+    "meta": {
+      "reason": 401,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-21T14:45:01.559Z",
+    "updatedAt": "2026-04-21T14:45:01.559Z"
+  },
+  {
+    "_id": "788b3448-7238-4150-9563-eb0d572999dd",
+    "kind": "request_started",
+    "phone": "6288801074059",
+    "status": "requesting",
+    "code": null,
+    "error": null,
+    "meta": {
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-21T14:45:53.936Z",
+    "updatedAt": "2026-04-21T14:45:53.936Z"
+  },
+  {
+    "_id": "8af3e66a-a1b0-4573-94e4-b5a2ff0b49ea",
+    "kind": "code_ready",
+    "phone": "6288801074059",
+    "status": "code_ready",
+    "code": "BBBBBBBB",
+    "error": null,
+    "meta": {
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-21T14:45:54.081Z",
+    "updatedAt": "2026-04-21T14:45:54.081Z"
+  },
+  {
+    "_id": "7f2134a6-47ee-49f1-862f-da63863da546",
+    "kind": "connection_closed",
+    "phone": null,
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774__wanzh",
+      "ownerId": "3e2bccba-29f9-4dfb-9a45-9c8e81ba5774"
+    },
+    "createdAt": "2026-04-21T14:47:38.816Z",
+    "updatedAt": "2026-04-21T14:47:38.816Z"
+  },
+  {
+    "_id": "f53f235c-fe1e-4040-9008-c8ff7af40ae6",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "idle",
+    "code": null,
+    "error": "QR refs attempts ended",
+    "meta": {
+      "reason": 408,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-21T14:48:33.274Z",
+    "updatedAt": "2026-04-21T14:48:33.274Z"
+  },
+  {
+    "_id": "2466365e-edc0-409f-8e1c-1ab3cc6dfc2b",
+    "kind": "connection_closed",
+    "phone": "6288801074059",
+    "status": "needs_pairing",
+    "code": null,
+    "error": "Session logout atau expired. Pairing ulang diperlukan.",
+    "meta": {
+      "reason": 401,
+      "sessionId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126__wanzh",
+      "ownerId": "fa9e6176-da01-4ad8-a7d9-00eaa244b126"
+    },
+    "createdAt": "2026-04-21T14:48:41.650Z",
+    "updatedAt": "2026-04-21T14:48:41.650Z"
+  }
+]
