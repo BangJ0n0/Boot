@@ -1,0 +1,533 @@
+<%- include("partials/head", { pageTitle, bodyClass: "dashboard-page" }) %>
+
+<div class="page page-dashboard">
+  <header class="dashboard-topbar">
+    <div class="headline-block">
+      <a href="/" class="brand">
+        <span class="brand-mark"><i class="fa-solid fa-wave-square"></i></span>
+        <span class="brand-text">wanzofc bot</span>
+      </a>
+      <p class="dashboard-subtitle">panel multi session untuk pairing, power control, dan edit fitur message.js</p>
+    </div>
+
+    <div class="dashboard-actions">
+      <a href="/profile" class="button button-ghost"><i class="fa-solid fa-user-gear"></i> profile</a>
+      <div class="user-pill">
+        <i class="fa-regular fa-user"></i>
+        <span><%= currentUser?.username || "admin" %></span>
+      </div>
+      <form action="/logout" method="post">
+        <button type="submit" class="button button-ghost"><i class="fa-solid fa-right-from-bracket"></i> logout</button>
+      </form>
+    </div>
+  </header>
+
+  <%- include("partials/flash") %>
+
+  <section class="surface dashboard-hero">
+    <div class="hero-copy">
+      <p class="eyebrow">control room</p>
+      <h1>semua session, status bot, dan case editor ada di satu tempat</h1>
+      <p class="hero-text">set nomor per session, matikan bot tertentu, restart socket, lalu tambah case baru ke <span class="mono">message.js</span> langsung dari dashboard.</p>
+    </div>
+    <div class="hero-side terminal-stack compact">
+      <div class="terminal-line">
+        <span class="terminal-key">session aktif dipilih</span>
+        <span class="mono"><%= selectedSession?.displayName || "-" %></span>
+      </div>
+      <div class="terminal-line">
+        <span class="terminal-key">status</span>
+        <span class="status-pill status-<%= selectedSession?.status || "idle" %>"><%= selectedSession?.status || "idle" %></span>
+      </div>
+      <div class="terminal-line">
+        <span class="terminal-key">power</span>
+        <span><%= selectedSession?.isEnabled === false ? "off" : "active" %></span>
+      </div>
+      <div class="terminal-line">
+        <span class="terminal-key">jid bot</span>
+        <span class="mono"><%= selectedSession?.connectedJid || "-" %></span>
+      </div>
+    </div>
+  </section>
+
+  <main class="dashboard-layout">
+    <aside class="dashboard-sidebar">
+      <section class="surface narrative-panel">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">session workspace</p>
+            <h2>buat, pilih, dan kontrol session</h2>
+          </div>
+          <i class="fa-solid fa-layer-group section-icon"></i>
+        </div>
+
+        <form class="form-stack" data-session-form>
+          <label class="field">
+            <span>nama session</span>
+            <input type="text" name="sessionName" placeholder="contoh: wanzo-main" data-session-name required>
+          </label>
+          <button type="submit" class="button button-primary button-block"><i class="fa-solid fa-plus"></i> buat / buka session</button>
+        </form>
+
+        <p class="session-helper-text">setiap kartu punya menu hamburger: pilih, aktif, off, restart, dan hapus. daftar session bisa discroll saat layar sempit.</p>
+
+        <div class="session-list" data-session-list>
+          <% if (sessions.length) { %>
+            <% sessions.forEach((session) => { %>
+              <article class="session-item <%= selectedSession?.sessionId === session.sessionId ? "is-active" : "" %>" data-session-card="<%= session.sessionId %>">
+                <canvas class="session-item-canvas" data-session-canvas></canvas>
+                <div class="session-item-top">
+                  <button type="button" class="session-item-main" data-session-pick="<%= session.sessionId %>">
+                    <span class="session-item-title"><%= session.displayName %></span>
+                    <span class="session-item-meta"><%= session.phone || "belum ada nomor" %> · <%= session.status %></span>
+                  </button>
+                  <div class="session-menu-wrap">
+                    <button type="button" class="icon-button session-menu-button" data-session-menu-toggle="<%= session.sessionId %>" aria-label="menu session" aria-expanded="false">
+                      <i class="fa-solid fa-bars"></i>
+                    </button>
+                    <div class="session-menu" data-session-menu="<%= session.sessionId %>" hidden>
+                      <button type="button" class="session-menu-close" data-session-menu-close="<%= session.sessionId %>"><i class="fa-solid fa-xmark"></i> tutup</button>
+                      <button type="button" data-session-pick="<%= session.sessionId %>"><i class="fa-solid fa-hand-pointer"></i> pilih</button>
+                      <button type="button" data-session-power="<%= session.sessionId %>" data-session-mode="active"><i class="fa-solid fa-power-off"></i> aktif</button>
+                      <button type="button" data-session-power="<%= session.sessionId %>" data-session-mode="off"><i class="fa-solid fa-moon"></i> off</button>
+                      <button type="button" data-session-restart="<%= session.sessionId %>"><i class="fa-solid fa-rotate-right"></i> restart</button>
+                      <button type="button" data-session-delete="<%= session.sessionId %>"><i class="fa-solid fa-trash"></i> hapus</button>
+                    </div>
+                  </div>
+                </div>
+                <div class="session-badges">
+                  <span class="mini-pill"><i class="fa-solid fa-signal"></i> <%= session.connection || "idle" %></span>
+                  <span class="mini-pill"><i class="fa-solid fa-plug-circle-check"></i> <%= session.isEnabled === false ? "off" : "active" %></span>
+                </div>
+              </article>
+            <% }) %>
+          <% } else { %>
+            <p class="empty-state">belum ada session. buat session baru dulu di atas.</p>
+          <% } %>
+        </div>
+      </section>
+
+      <section class="surface pairing-surface">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">pairing control</p>
+            <h2>ubah nomor dan minta pairing code</h2>
+          </div>
+          <span class="status-pill status-<%= selectedSession?.status || "idle" %>" data-pairing-status><%= selectedSession?.status || "idle" %></span>
+        </div>
+
+        <div class="selected-session-summary" data-selected-session-summary>
+          <span class="pairing-label">session aktif</span>
+          <strong data-selected-session-name><%= selectedSession?.displayName || "belum dipilih" %></strong>
+          <span class="pairing-meta mono" data-selected-session-id><%= selectedSession?.sessionId || "-" %></span>
+        </div>
+
+        <form class="pairing-form form-stack" data-pairing-form>
+          <input type="hidden" name="sessionId" value="<%= selectedSession?.sessionId || "" %>" data-session-id>
+          <label class="field">
+            <span>nomor whatsapp</span>
+            <input
+              type="text"
+              name="phone"
+              value="<%= selectedSession?.phone || "" %>"
+              placeholder="628xxxxxxxxxx"
+              inputmode="numeric"
+              data-pairing-phone
+              required
+            >
+          </label>
+
+          <button type="submit" class="button button-primary button-block" data-pairing-submit>
+            <i class="fa-solid fa-link"></i> minta pairing code
+          </button>
+        </form>
+
+        <div class="live-banner" data-live-message hidden></div>
+
+        <div class="pairing-code-box">
+          <span class="pairing-label">latest pairing code</span>
+          <strong class="pairing-code mono" data-pairing-code><%= selectedSession?.lastCode || "-" %></strong>
+          <span class="pairing-meta" data-pairing-updated><%= selectedSession?.updatedAt || "-" %></span>
+        </div>
+
+        <div class="terminal-stack compact">
+          <div class="terminal-line">
+            <span class="terminal-key">connection</span>
+            <span data-pairing-connection><%= selectedSession?.connection || "-" %></span>
+          </div>
+          <div class="terminal-line">
+            <span class="terminal-key">registered</span>
+            <span data-pairing-registered><%= selectedSession?.registered ? "true" : "false" %></span>
+          </div>
+          <div class="terminal-line">
+            <span class="terminal-key">connected jid</span>
+            <span class="mono" data-pairing-jid><%= selectedSession?.connectedJid || "-" %></span>
+          </div>
+          <div class="terminal-line">
+            <span class="terminal-key">error</span>
+            <span data-pairing-error><%= selectedSession?.lastError || "-" %></span>
+          </div>
+        </div>
+      </section>
+    </aside>
+
+    <section class="dashboard-main">
+      <section class="metrics-row">
+        <article class="metric-block surface">
+          <span class="metric-label"><i class="fa-solid fa-users"></i> tracked users</span>
+          <strong class="metric-value" data-metric-users><%= metrics.totalUsers %></strong>
+        </article>
+        <article class="metric-block surface">
+          <span class="metric-label"><i class="fa-solid fa-user-group"></i> tracked groups</span>
+          <strong class="metric-value" data-metric-groups><%= metrics.totalGroups %></strong>
+        </article>
+        <article class="metric-block surface">
+          <span class="metric-label"><i class="fa-solid fa-receipt"></i> transactions</span>
+          <strong class="metric-value" data-metric-transactions><%= metrics.totalTransactions %></strong>
+        </article>
+        <article class="metric-block surface">
+          <span class="metric-label"><i class="fa-solid fa-code"></i> cases</span>
+          <strong class="metric-value" data-metric-cases><%= metrics.totalCases %></strong>
+        </article>
+        <article class="metric-block surface">
+          <span class="metric-label"><i class="fa-solid fa-address-card"></i> registered users</span>
+          <strong class="metric-value" data-metric-registered-users><%= metrics.totalRegisteredUsers %></strong>
+        </article>
+        <article class="metric-block surface">
+          <span class="metric-label"><i class="fa-solid fa-ban"></i> banned chats</span>
+          <strong class="metric-value" data-metric-banned-chats><%= metrics.totalBannedChats %></strong>
+        </article>
+      </section>
+
+      <section class="detail-grid">
+        <section class="surface narrative-panel">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">system snapshot</p>
+              <h2>ringkasan kondisi bot</h2>
+            </div>
+            <i class="fa-solid fa-chart-line section-icon"></i>
+          </div>
+          <div class="overview-grid">
+            <div>
+              <span class="overview-label">auto story</span>
+              <strong><%= metrics.lastAutoStory ? new Date(metrics.lastAutoStory).toLocaleString("id-ID") : "belum pernah jalan" %></strong>
+            </div>
+            <div>
+              <span class="overview-label">pairing state</span>
+              <strong data-overview-status><%= selectedSession?.status || "-" %></strong>
+            </div>
+            <div>
+              <span class="overview-label">current phone</span>
+              <strong data-overview-phone><%= selectedSession?.phone || "-" %></strong>
+            </div>
+            <div>
+              <span class="overview-label">bot jid</span>
+              <strong class="mono" data-overview-jid><%= selectedSession?.connectedJid || "-" %></strong>
+            </div>
+          </div>
+        </section>
+
+        <section class="surface narrative-panel">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">message.js editor</p>
+              <h2>tambah case baru dari dashboard</h2>
+            </div>
+            <i class="fa-solid fa-terminal section-icon"></i>
+          </div>
+
+          <form class="form-stack" data-case-form>
+            <label class="field">
+              <span>nama case</span>
+              <input type="text" name="caseName" placeholder="contoh: pingweb" data-case-name required>
+            </label>
+            <label class="field">
+              <span>isi case</span>
+              <textarea name="caseBody" placeholder='contoh:&#10;if (!isOwner) return Reply(mess.owner)&#10;Reply("halo dari dashboard")' data-case-body required></textarea>
+            </label>
+            <button type="submit" class="button button-primary"><i class="fa-solid fa-file-circle-plus"></i> tambah case ke message.js</button>
+          </form>
+          <p class="session-helper-text">format otomatis dibungkus menjadi <span class="mono">case "nama": { ... }</span>.</p>
+          <div class="detail-grid" style="margin-top:16px;">
+            <form class="form-stack" data-delete-case-form>
+              <label class="field">
+                <span>hapus case</span>
+                <input type="text" name="caseName" placeholder="nama case">
+              </label>
+              <button type="submit" class="button button-ghost"><i class="fa-solid fa-eraser"></i> hapus case</button>
+            </form>
+            <form class="form-stack" data-delete-function-form>
+              <label class="field">
+                <span>hapus function</span>
+                <input type="text" name="functionName" placeholder="nama function">
+              </label>
+              <button type="submit" class="button button-ghost"><i class="fa-solid fa-scissors"></i> hapus function</button>
+            </form>
+          </div>
+          <div class="pairing-code-box" data-inspector-box>
+            <span class="pairing-label">message.js inspector</span>
+            <strong class="pairing-code mono" data-inspector-status><%= "memuat" %></strong>
+            <span class="pairing-meta" data-inspector-line>-</span>
+          </div>
+          <label class="field">
+            <span>full case block</span>
+            <textarea readonly data-inspector-case></textarea>
+          </label>
+          <label class="field">
+            <span>full function block</span>
+            <textarea readonly data-inspector-function></textarea>
+          </label>
+          <label class="field">
+            <span>error detail</span>
+            <textarea readonly data-inspector-error></textarea>
+          </label>
+        </section>
+      </section>
+
+      <section class="surface narrative-panel dashboard-toolkit">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">dashboard tools</p>
+            <h2>user, grup, settings, dan builder visual</h2>
+          </div>
+          <i class="fa-solid fa-sliders section-icon"></i>
+        </div>
+
+        <div class="tool-grid">
+          <section class="tool-panel">
+            <h3>user control</h3>
+            <form class="form-stack" data-user-import-form>
+              <label class="field">
+                <span>import user csv</span>
+                <textarea name="csv" placeholder="number,name,age,limit&#10;628xxx,awan,20,25"></textarea>
+              </label>
+              <button type="submit" class="button button-ghost"><i class="fa-solid fa-file-import"></i> import csv</button>
+            </form>
+            <form class="form-stack" data-user-action-form>
+              <label class="field">
+                <span>target user</span>
+                <input type="text" name="target" placeholder="628xxx atau 628xxx@s.whatsapp.net">
+              </label>
+              <label class="field">
+                <span>jumlah limit massal</span>
+                <input type="number" name="amount" value="5" min="1">
+              </label>
+              <div class="button-grid compact">
+                <button type="button" class="button button-ghost" data-user-action="ban">ban user</button>
+                <button type="button" class="button button-ghost" data-user-action="unban">unban user</button>
+                <button type="button" class="button button-ghost" data-user-action="resetlimit">reset limit</button>
+                <button type="button" class="button button-primary" data-user-action="masslimit">tambah limit massal</button>
+              </div>
+            </form>
+            <div class="code-view" data-user-summary></div>
+          </section>
+
+          <section class="tool-panel">
+            <h3>session group control</h3>
+            <form class="form-stack" data-group-refresh-form>
+              <label class="field">
+                <span>pilih grup session aktif</span>
+                <select name="groupId" data-group-select>
+                  <option value="">pilih grup</option>
+                </select>
+              </label>
+              <label class="field">
+                <span>target nomor promote demote unwarn</span>
+                <input type="text" name="target" placeholder="628xxx">
+              </label>
+              <div class="button-grid compact">
+                <button type="submit" class="button button-ghost"><i class="fa-solid fa-arrows-rotate"></i> refresh grup</button>
+                <button type="button" class="button button-ghost" data-group-action="leave">leave</button>
+                <button type="button" class="button button-ghost" data-group-action="open">open</button>
+                <button type="button" class="button button-ghost" data-group-action="close">close</button>
+                <button type="button" class="button button-ghost" data-group-action="promote">promote</button>
+                <button type="button" class="button button-ghost" data-group-action="demote">demote</button>
+                <button type="button" class="button button-ghost" data-group-action="banchat">ban chat</button>
+                <button type="button" class="button button-ghost" data-group-action="unbanchat">unban chat</button>
+                <button type="button" class="button button-primary" data-group-action="unwarn">unwarn</button>
+              </div>
+            </form>
+            <div class="toggle-grid">
+              <button type="button" class="button button-ghost" data-group-setting="antilink"><i class="fa-solid fa-link-slash"></i> anti-link</button>
+              <button type="button" class="button button-ghost" data-group-setting="antilink2"><i class="fa-solid fa-trash-can"></i> anti-link 2</button>
+              <button type="button" class="button button-ghost" data-group-setting="antilink3"><i class="fa-solid fa-shield-halved"></i> anti-link 3</button>
+              <button type="button" class="button button-ghost" data-group-setting="welcome"><i class="fa-solid fa-door-open"></i> welcome</button>
+              <button type="button" class="button button-ghost" data-group-setting="goodbye"><i class="fa-solid fa-door-closed"></i> goodbye</button>
+            </div>
+            <div class="code-view" data-group-summary></div>
+          </section>
+
+          <section class="tool-panel">
+            <h3>bot settings</h3>
+            <form class="form-stack" data-bot-setting-form="autoai">
+              <label class="field">
+                <span>auto ai</span>
+                <select name="enabled">
+                  <option value="true">on</option>
+                  <option value="false">off</option>
+                </select>
+              </label>
+              <button type="submit" class="button button-ghost">simpan autoai</button>
+            </form>
+            <form class="form-stack" data-bot-setting-form="autostory">
+              <label class="field">
+                <span>autostory cron</span>
+                <input type="text" name="interval" placeholder="0 * * * *">
+              </label>
+              <label class="field">
+                <span>teks autostory</span>
+                <textarea name="text" placeholder="isi story otomatis"></textarea>
+              </label>
+              <button type="submit" class="button button-ghost">simpan autostory</button>
+            </form>
+            <form class="form-stack" data-bot-setting-form="autojpm">
+              <label class="field">
+                <span>interval jpm ms</span>
+                <input type="number" name="intervalMs" placeholder="3600000">
+              </label>
+              <label class="field">
+                <span>teks autojpm</span>
+                <textarea name="text" placeholder="isi jpm otomatis"></textarea>
+              </label>
+              <button type="submit" class="button button-ghost">simpan autojpm</button>
+            </form>
+            <form class="form-stack" data-bot-setting-form="channelreact">
+              <label class="field">
+                <span>link channel</span>
+                <input type="text" name="link" placeholder="https://whatsapp.com/channel/...">
+              </label>
+              <label class="field">
+                <span>emoji default</span>
+                <input type="text" name="emoji" placeholder="🔥">
+              </label>
+              <label class="field">
+                <span>count default</span>
+                <input type="number" name="count" value="10" min="1">
+              </label>
+              <button type="submit" class="button button-ghost">simpan channel react</button>
+            </form>
+          </section>
+
+          <section class="tool-panel">
+            <h3>cloudflare dan akses dashboard</h3>
+            <form class="form-stack" data-dashboard-setting-form>
+              <label class="field">
+                <span>cloudflare public url</span>
+                <input type="text" name="publicUrl" placeholder="https://xxxxx.trycloudflare.com">
+              </label>
+              <label class="field">
+                <span>domain custom</span>
+                <input type="text" name="customDomain" placeholder="bot.domainanda.com">
+              </label>
+              <label class="field inline-check">
+                <input type="checkbox" name="maintenanceMode">
+                <span>maintenance mode</span>
+              </label>
+              <div class="button-grid compact">
+                <button type="submit" class="button button-ghost">simpan akses dashboard</button>
+                <button type="button" class="button button-ghost" data-copy-public-url>copy public url</button>
+              </div>
+            </form>
+            <div class="code-view" data-cloudflare-output></div>
+          </section>
+
+          <section class="tool-panel">
+            <h3>template dan menu builder</h3>
+            <div class="button-grid compact" data-template-buttons>
+              <% controlData.templates.forEach((template) => { %>
+                <button type="button" class="button button-ghost" data-template-id="<%= template.id %>"><%= template.title %></button>
+              <% }) %>
+            </div>
+            <div class="code-view" data-snippet-library><%= controlData.snippets.map((item) => `${item.title}: ${item.code}`).join("\n\n") %></div>
+            <form class="form-stack" data-menu-builder-form>
+              <label class="field">
+                <span>judul menu</span>
+                <input type="text" name="title" placeholder="menu custom owner">
+              </label>
+              <label class="field">
+                <span>daftar command dipisah koma</span>
+                <textarea name="commands" placeholder="banuser, unbanuser, ceklimit"></textarea>
+              </label>
+              <button type="submit" class="button button-ghost">menu builder visual</button>
+            </form>
+            <label class="field">
+              <span>preview menu</span>
+              <textarea readonly data-menu-preview></textarea>
+            </label>
+          </section>
+
+          <section class="tool-panel">
+            <h3>leaderboard dan warning</h3>
+            <div class="code-view" data-leaderboard-output></div>
+            <div class="code-view" data-command-stats-output></div>
+            <div class="code-view" data-warning-output></div>
+          </section>
+        </div>
+      </section>
+
+      <section class="detail-grid">
+        <section class="surface narrative-panel">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">recent pairing logs</p>
+              <h2>connection events</h2>
+            </div>
+            <i class="fa-solid fa-clock-rotate-left section-icon"></i>
+          </div>
+          <div class="activity-list">
+            <% if (pairingEvents.length) { %>
+              <% pairingEvents.forEach((event) => { %>
+                <article class="activity-item">
+                  <div class="activity-meta">
+                    <span class="activity-kind"><%= event.kind %></span>
+                    <span class="activity-time"><%= new Date(event.createdAt).toLocaleString("id-ID") %></span>
+                  </div>
+                  <strong><%= event.status || "-" %></strong>
+                  <p><%= event.error || event.code || event.phone || "event tersimpan." %></p>
+                </article>
+              <% }) %>
+            <% } else { %>
+              <p class="empty-state">belum ada log pairing yang tersimpan.</p>
+            <% } %>
+          </div>
+        </section>
+
+        <section class="surface narrative-panel">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">story tracker</p>
+              <h2>snapshot aktivitas bot</h2>
+            </div>
+            <i class="fa-solid fa-radio section-icon"></i>
+          </div>
+          <div class="activity-list">
+            <% if (storyRecords.length) { %>
+              <% storyRecords.forEach((record) => { %>
+                <article class="activity-item">
+                  <div class="activity-meta">
+                    <span class="activity-kind"><%= record.type || "story" %></span>
+                    <span class="activity-time"><%= record.createdAt ? new Date(record.createdAt).toLocaleString("id-ID") : "-" %></span>
+                  </div>
+                  <strong><%= record.label || record.remoteJid || "unknown target" %></strong>
+                  <p class="mono"><%= record.remoteJid || "-" %></p>
+                </article>
+              <% }) %>
+            <% } else { %>
+              <p class="empty-state">belum ada story tracker yang tersimpan di database bot.</p>
+            <% } %>
+          </div>
+        </section>
+      </section>
+    </section>
+  </main>
+</div>
+
+<%- include("partials/footer", {
+  scriptName: "dashboard.js",
+  inlineScript: `window.__DASHBOARD__ = ${JSON.stringify({
+    selectedSession,
+    sessions,
+    controlData
+  })};`
+}) %>
