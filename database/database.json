@@ -1,0 +1,4499 @@
+{
+  "users": {
+    "92467005239432@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-05T09:44:59.106Z",
+      "lastSeen": "2026-03-18T21:46:40.492Z"
+    },
+    "187901178585194@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-05T09:49:11.440Z",
+      "lastSeen": "2026-03-05T09:50:15.199Z"
+    },
+    "120363408594646246@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-05T09:57:18.781Z",
+      "lastSeen": "2026-03-05T12:50:45.647Z"
+    },
+    "258046332805135@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-05T10:04:55.714Z",
+      "lastSeen": "2026-03-26T22:11:29.783Z"
+    },
+    "120363400066809464@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-05T10:11:46.974Z",
+      "lastSeen": "2026-03-05T12:52:00.184Z"
+    },
+    "130790562201690@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-05T10:43:16.595Z",
+      "lastSeen": "2026-03-19T20:16:42.887Z"
+    },
+    "120363401142486674@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-05T10:48:30.321Z",
+      "lastSeen": "2026-03-05T11:22:09.689Z"
+    },
+    "120363422684021546@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-05T11:09:15.958Z",
+      "lastSeen": "2026-03-05T13:45:28.270Z"
+    },
+    "102070568915198@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-05T11:11:02.916Z",
+      "lastSeen": "2026-03-18T17:09:47.628Z"
+    },
+    "274006548676748@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-05T11:25:08.355Z",
+      "lastSeen": "2026-03-18T16:17:04.160Z"
+    },
+    "114418532806673@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-05T11:25:42.313Z",
+      "lastSeen": "2026-03-05T11:25:42.313Z"
+    },
+    "120363402625644245@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-05T11:38:00.397Z",
+      "lastSeen": "2026-04-18T14:16:15.957Z"
+    },
+    "186874614280284@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-05T11:38:14.708Z",
+      "lastSeen": "2026-03-05T11:38:14.708Z"
+    },
+    "74591200403575@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-05T11:52:16.717Z",
+      "lastSeen": "2026-03-13T00:42:39.645Z"
+    },
+    "166323313197308@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-05T12:00:42.546Z",
+      "lastSeen": "2026-03-26T22:23:20.254Z"
+    },
+    "273886339924049@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-05T12:22:46.626Z",
+      "lastSeen": "2026-03-12T18:38:58.878Z"
+    },
+    "120363423419836419@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-05T12:52:14.959Z",
+      "lastSeen": "2026-03-05T12:52:14.959Z"
+    },
+    "120363242985020637@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-05T12:57:20.632Z",
+      "lastSeen": "2026-03-05T12:57:20.632Z"
+    },
+    "120363404436969117@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-05T13:02:32.278Z",
+      "lastSeen": "2026-03-05T13:13:43.977Z"
+    },
+    "155474074808435@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-05T13:03:22.258Z",
+      "lastSeen": "2026-03-18T16:52:58.218Z"
+    },
+    "120363422571077531@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-05T13:26:43.854Z",
+      "lastSeen": "2026-03-12T16:45:37.149Z"
+    },
+    "209109257310299@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-05T13:41:16.398Z",
+      "lastSeen": "2026-03-19T19:29:53.180Z"
+    },
+    "8006305628314@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-12T10:58:47.389Z",
+      "lastSeen": "2026-03-13T01:46:28.072Z"
+    },
+    "120363407267962128@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-12T11:03:03.496Z",
+      "lastSeen": "2026-03-19T09:29:37.578Z"
+    },
+    "120363405676858997@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-12T16:33:48.447Z",
+      "lastSeen": "2026-03-12T16:37:49.617Z"
+    },
+    "120363423856130867@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-12T16:37:49.721Z",
+      "lastSeen": "2026-03-30T09:26:21.019Z"
+    },
+    "238272655663358@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-12T16:59:41.186Z",
+      "lastSeen": "2026-03-18T16:18:14.154Z"
+    },
+    "133874650718442@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-12T17:38:38.928Z",
+      "lastSeen": "2026-03-12T18:35:18.547Z"
+    },
+    "48413592805576@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-12T23:45:26.841Z",
+      "lastSeen": "2026-03-13T02:17:30.312Z"
+    },
+    "223953167618117@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-13T08:20:53.523Z",
+      "lastSeen": "2026-03-13T08:38:25.308Z"
+    },
+    "22132620816532@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-13T08:25:22.739Z",
+      "lastSeen": "2026-03-13T08:34:42.888Z"
+    },
+    "266520571719862@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-18T15:57:49.320Z",
+      "lastSeen": "2026-03-18T16:34:50.226Z"
+    },
+    "120363425588231139@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-18T15:59:35.617Z",
+      "lastSeen": "2026-03-18T17:15:22.864Z"
+    },
+    "216857277657140@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-18T17:36:43.034Z",
+      "lastSeen": "2026-03-18T17:36:43.034Z"
+    },
+    "192466695286792@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-18T20:45:14.438Z",
+      "lastSeen": "2026-03-18T20:45:14.438Z"
+    },
+    "148932856385703@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-18T22:02:11.484Z",
+      "lastSeen": "2026-03-19T00:34:54.818Z"
+    },
+    "200910617710651@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-19T00:31:00.080Z",
+      "lastSeen": "2026-03-19T00:31:00.080Z"
+    },
+    "138745344979139@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-19T00:43:13.930Z",
+      "lastSeen": "2026-03-19T00:43:13.930Z"
+    },
+    "173242388078795@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-19T03:57:37.344Z",
+      "lastSeen": "2026-03-19T12:08:27.224Z"
+    },
+    "120363425671822777@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-19T05:06:23.857Z",
+      "lastSeen": "2026-03-19T08:26:08.062Z"
+    },
+    "94451313692876@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-19T05:53:42.072Z",
+      "lastSeen": "2026-03-19T05:53:42.072Z"
+    },
+    "161748954943568@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-19T10:06:15.392Z",
+      "lastSeen": "2026-03-19T10:06:15.392Z"
+    },
+    "220099927662667@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-19T11:31:10.530Z",
+      "lastSeen": "2026-03-19T20:21:04.058Z"
+    },
+    "198926292516981@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-19T14:53:46.576Z",
+      "lastSeen": "2026-03-19T14:53:46.576Z"
+    },
+    "132552018935826@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T21:52:02.203Z",
+      "lastSeen": "2026-03-26T21:52:09.566Z"
+    },
+    "49062065782934@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T21:52:13.067Z",
+      "lastSeen": "2026-03-26T22:23:35.564Z"
+    },
+    "251453826424855@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T21:54:16.270Z",
+      "lastSeen": "2026-03-26T21:54:28.391Z"
+    },
+    "178125866565702@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T21:54:48.717Z",
+      "lastSeen": "2026-03-26T21:55:09.724Z"
+    },
+    "156723994226875@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T21:54:55.250Z",
+      "lastSeen": "2026-03-26T22:06:29.054Z"
+    },
+    "272185516138519@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T21:54:57.814Z",
+      "lastSeen": "2026-03-26T21:54:57.814Z"
+    },
+    "257887754567847@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T21:55:06.225Z",
+      "lastSeen": "2026-03-26T21:58:09.933Z"
+    },
+    "115286116171886@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T21:55:25.566Z",
+      "lastSeen": "2026-03-26T22:14:59.015Z"
+    },
+    "225155758485686@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T21:56:01.395Z",
+      "lastSeen": "2026-03-26T21:56:10.823Z"
+    },
+    "280465894293544@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T21:56:21.223Z",
+      "lastSeen": "2026-03-26T22:18:47.512Z"
+    },
+    "259073148760231@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T21:56:48.981Z",
+      "lastSeen": "2026-03-26T21:56:52.170Z"
+    },
+    "49276847653009@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T21:57:47.288Z",
+      "lastSeen": "2026-03-26T22:05:54.939Z"
+    },
+    "169677665898749@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T21:57:55.552Z",
+      "lastSeen": "2026-03-26T21:57:55.552Z"
+    },
+    "32230223147245@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T21:58:06.708Z",
+      "lastSeen": "2026-03-26T21:58:39.659Z"
+    },
+    "254052365557788@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T21:58:34.442Z",
+      "lastSeen": "2026-03-26T21:59:07.410Z"
+    },
+    "231198542565478@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T21:59:11.715Z",
+      "lastSeen": "2026-03-26T21:59:11.715Z"
+    },
+    "194987673313442@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T21:59:14.782Z",
+      "lastSeen": "2026-03-26T22:01:18.770Z"
+    },
+    "77353015373884@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T21:59:27.765Z",
+      "lastSeen": "2026-03-26T22:14:14.417Z"
+    },
+    "179758021247206@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:00:26.573Z",
+      "lastSeen": "2026-03-26T22:00:31.487Z"
+    },
+    "211442011766965@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:00:37.972Z",
+      "lastSeen": "2026-03-26T22:07:51.974Z"
+    },
+    "242374131359848@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:00:43.334Z",
+      "lastSeen": "2026-03-26T22:11:21.301Z"
+    },
+    "180247630741555@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:00:56.246Z",
+      "lastSeen": "2026-03-26T22:05:13.506Z"
+    },
+    "213288478621804@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:01:19.967Z",
+      "lastSeen": "2026-03-26T22:01:19.967Z"
+    },
+    "155843492356225@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:01:25.579Z",
+      "lastSeen": "2026-03-26T22:01:25.579Z"
+    },
+    "91543604064505@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:01:53.978Z",
+      "lastSeen": "2026-03-26T22:02:18.598Z"
+    },
+    "59382872158239@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:02:16.459Z",
+      "lastSeen": "2026-03-26T22:22:09.612Z"
+    },
+    "50681234874476@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:02:38.284Z",
+      "lastSeen": "2026-03-26T22:10:12.050Z"
+    },
+    "30271466389528@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:02:54.098Z",
+      "lastSeen": "2026-03-26T22:02:54.099Z"
+    },
+    "10123523133566@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:29.449Z",
+      "lastSeen": "2026-03-26T22:03:29.449Z"
+    },
+    "11747289231489@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:29.544Z",
+      "lastSeen": "2026-03-26T22:03:29.544Z"
+    },
+    "257325130621089@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:29.598Z",
+      "lastSeen": "2026-03-26T22:03:29.598Z"
+    },
+    "165193418047666@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:30.154Z",
+      "lastSeen": "2026-03-26T22:03:30.154Z"
+    },
+    "57093587488794@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:30.208Z",
+      "lastSeen": "2026-03-26T22:03:30.208Z"
+    },
+    "73225434329321@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:30.316Z",
+      "lastSeen": "2026-03-26T22:03:30.316Z"
+    },
+    "271545666654221@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:30.868Z",
+      "lastSeen": "2026-03-26T22:03:30.868Z"
+    },
+    "120130788937946@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:30.893Z",
+      "lastSeen": "2026-03-26T22:03:30.893Z"
+    },
+    "12516272939253@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:30.943Z",
+      "lastSeen": "2026-03-26T22:03:30.944Z"
+    },
+    "230339414888454@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:31.272Z",
+      "lastSeen": "2026-03-26T22:03:31.272Z"
+    },
+    "73663269322939@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:31.283Z",
+      "lastSeen": "2026-03-26T22:03:31.283Z"
+    },
+    "22420282978425@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:31.355Z",
+      "lastSeen": "2026-03-26T22:03:31.355Z"
+    },
+    "148412645273819@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:31.427Z",
+      "lastSeen": "2026-03-26T22:03:31.427Z"
+    },
+    "272812765905021@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:31.530Z",
+      "lastSeen": "2026-03-26T22:03:31.530Z"
+    },
+    "221019621052498@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:32.076Z",
+      "lastSeen": "2026-03-26T22:03:32.076Z"
+    },
+    "47064436203664@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:32.144Z",
+      "lastSeen": "2026-03-26T22:03:32.144Z"
+    },
+    "274788350185556@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:32.174Z",
+      "lastSeen": "2026-03-26T22:03:32.174Z"
+    },
+    "25151982796992@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:32.387Z",
+      "lastSeen": "2026-03-26T22:03:32.387Z"
+    },
+    "138573277847690@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:32.616Z",
+      "lastSeen": "2026-03-26T22:03:32.616Z"
+    },
+    "208216206139621@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:33.041Z",
+      "lastSeen": "2026-03-26T22:03:33.041Z"
+    },
+    "158402906996782@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:33.102Z",
+      "lastSeen": "2026-03-26T22:03:33.102Z"
+    },
+    "114113690734673@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:33.367Z",
+      "lastSeen": "2026-03-26T22:03:33.367Z"
+    },
+    "158691055648872@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:33.378Z",
+      "lastSeen": "2026-03-26T22:03:33.378Z"
+    },
+    "62917126926430@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:33.382Z",
+      "lastSeen": "2026-03-26T22:03:33.382Z"
+    },
+    "275351074770954@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:33.442Z",
+      "lastSeen": "2026-03-26T22:03:33.442Z"
+    },
+    "126341076766891@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:33.487Z",
+      "lastSeen": "2026-03-26T22:03:33.487Z"
+    },
+    "45127607287855@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:33.511Z",
+      "lastSeen": "2026-03-26T22:03:33.511Z"
+    },
+    "144878273060899@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:33.717Z",
+      "lastSeen": "2026-03-26T22:03:33.717Z"
+    },
+    "128806740316171@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:33.751Z",
+      "lastSeen": "2026-03-26T22:03:33.751Z"
+    },
+    "231975965188324@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:33.798Z",
+      "lastSeen": "2026-03-26T22:03:33.798Z"
+    },
+    "100614642123002@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:33.895Z",
+      "lastSeen": "2026-03-26T22:03:33.895Z"
+    },
+    "115913298808915@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:33.941Z",
+      "lastSeen": "2026-03-26T22:03:33.941Z"
+    },
+    "148258764628214@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:34.391Z",
+      "lastSeen": "2026-03-26T22:03:34.391Z"
+    },
+    "179444438270117@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:34.411Z",
+      "lastSeen": "2026-03-26T22:03:34.411Z"
+    },
+    "107774184837363@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:34.446Z",
+      "lastSeen": "2026-03-26T22:03:34.446Z"
+    },
+    "196164628549875@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:34.486Z",
+      "lastSeen": "2026-03-26T22:03:34.486Z"
+    },
+    "142034820174051@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:34.508Z",
+      "lastSeen": "2026-03-26T22:03:34.508Z"
+    },
+    "94133502902324@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:34.536Z",
+      "lastSeen": "2026-03-26T22:03:34.536Z"
+    },
+    "84963697414239@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:34.597Z",
+      "lastSeen": "2026-03-26T22:03:34.597Z"
+    },
+    "170472234856671@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:34.624Z",
+      "lastSeen": "2026-03-26T22:03:34.624Z"
+    },
+    "248932647104721@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:34.765Z",
+      "lastSeen": "2026-03-26T22:03:34.765Z"
+    },
+    "116299627802628@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:34.768Z",
+      "lastSeen": "2026-03-26T22:03:34.768Z"
+    },
+    "219309737533665@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:34.838Z",
+      "lastSeen": "2026-03-26T22:06:12.103Z"
+    },
+    "31319337750633@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:34.937Z",
+      "lastSeen": "2026-03-26T22:03:34.937Z"
+    },
+    "93549253152901@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:35.109Z",
+      "lastSeen": "2026-03-26T22:03:35.109Z"
+    },
+    "87716771447039@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:35.148Z",
+      "lastSeen": "2026-03-26T22:03:35.148Z"
+    },
+    "132156831604973@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:35.229Z",
+      "lastSeen": "2026-03-26T22:03:35.229Z"
+    },
+    "91912316944500@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:35.342Z",
+      "lastSeen": "2026-03-26T22:03:35.342Z"
+    },
+    "30507823837220@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:35.367Z",
+      "lastSeen": "2026-03-26T22:03:35.367Z"
+    },
+    "262242566197371@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:35.553Z",
+      "lastSeen": "2026-03-26T22:03:35.553Z"
+    },
+    "189236946935864@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:35.558Z",
+      "lastSeen": "2026-03-26T22:03:35.558Z"
+    },
+    "269882994204856@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:35.595Z",
+      "lastSeen": "2026-03-26T22:03:35.595Z"
+    },
+    "152527660171487@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:35.611Z",
+      "lastSeen": "2026-03-26T22:03:35.611Z"
+    },
+    "277721309564930@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:36.034Z",
+      "lastSeen": "2026-03-26T22:03:36.035Z"
+    },
+    "269600029708399@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:36.040Z",
+      "lastSeen": "2026-03-26T22:03:36.040Z"
+    },
+    "867633766518@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:36.170Z",
+      "lastSeen": "2026-03-26T22:03:36.170Z"
+    },
+    "178262768652408@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:36.182Z",
+      "lastSeen": "2026-03-26T22:03:36.182Z"
+    },
+    "173783738519732@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:36.569Z",
+      "lastSeen": "2026-03-26T22:03:36.569Z"
+    },
+    "237404619329713@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:36.672Z",
+      "lastSeen": "2026-03-26T22:03:36.672Z"
+    },
+    "158914175840508@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:36.711Z",
+      "lastSeen": "2026-03-26T22:03:36.711Z"
+    },
+    "181218259812422@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:36.724Z",
+      "lastSeen": "2026-03-26T22:03:36.724Z"
+    },
+    "142400362131656@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:36.762Z",
+      "lastSeen": "2026-03-26T22:03:36.762Z"
+    },
+    "266258511560743@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:36.815Z",
+      "lastSeen": "2026-03-26T22:03:36.816Z"
+    },
+    "112154766262415@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:37.048Z",
+      "lastSeen": "2026-03-26T22:03:37.048Z"
+    },
+    "42911404175497@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:37.309Z",
+      "lastSeen": "2026-03-26T22:03:37.309Z"
+    },
+    "226113150283818@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:37.313Z",
+      "lastSeen": "2026-03-26T22:03:37.313Z"
+    },
+    "85556100874458@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:37.353Z",
+      "lastSeen": "2026-03-26T22:03:37.353Z"
+    },
+    "90731855270080@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:37.357Z",
+      "lastSeen": "2026-03-26T22:03:37.358Z"
+    },
+    "43839452610604@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:37.562Z",
+      "lastSeen": "2026-03-26T22:03:37.562Z"
+    },
+    "81703850795068@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:37.612Z",
+      "lastSeen": "2026-03-26T22:03:37.612Z"
+    },
+    "223631061848140@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:37.849Z",
+      "lastSeen": "2026-03-26T22:03:37.849Z"
+    },
+    "169947728744557@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:37.866Z",
+      "lastSeen": "2026-03-26T22:03:37.866Z"
+    },
+    "215633748881423@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:38.015Z",
+      "lastSeen": "2026-03-26T22:03:38.015Z"
+    },
+    "270024593936487@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:38.020Z",
+      "lastSeen": "2026-03-26T22:03:38.020Z"
+    },
+    "185654491267180@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:38.026Z",
+      "lastSeen": "2026-03-26T22:03:38.026Z"
+    },
+    "155546552414280@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:38.036Z",
+      "lastSeen": "2026-03-26T22:03:38.036Z"
+    },
+    "88494126985333@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:38.040Z",
+      "lastSeen": "2026-03-26T22:03:38.040Z"
+    },
+    "167117546594453@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:38.259Z",
+      "lastSeen": "2026-03-26T22:03:38.259Z"
+    },
+    "137739970289839@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:38.403Z",
+      "lastSeen": "2026-03-26T22:03:38.403Z"
+    },
+    "247481032036598@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:38.438Z",
+      "lastSeen": "2026-03-26T22:03:38.438Z"
+    },
+    "214581448306889@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:38.485Z",
+      "lastSeen": "2026-03-26T22:03:38.485Z"
+    },
+    "55860948660389@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:38.660Z",
+      "lastSeen": "2026-03-26T22:03:38.660Z"
+    },
+    "230554213609508@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:38.788Z",
+      "lastSeen": "2026-03-26T22:03:38.788Z"
+    },
+    "190804274446383@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:38.807Z",
+      "lastSeen": "2026-03-26T22:03:38.807Z"
+    },
+    "114710406008877@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:38.912Z",
+      "lastSeen": "2026-03-26T22:03:38.912Z"
+    },
+    "119997460426897@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:39.283Z",
+      "lastSeen": "2026-03-26T22:03:39.283Z"
+    },
+    "83679401525298@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:39.318Z",
+      "lastSeen": "2026-03-26T22:03:39.318Z"
+    },
+    "49418548064341@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:39.323Z",
+      "lastSeen": "2026-03-26T22:03:39.323Z"
+    },
+    "237757007929494@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:39.344Z",
+      "lastSeen": "2026-03-26T22:03:39.344Z"
+    },
+    "252166841364734@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:39.348Z",
+      "lastSeen": "2026-03-26T22:03:39.348Z"
+    },
+    "90873270427849@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:39.447Z",
+      "lastSeen": "2026-03-26T22:03:39.447Z"
+    },
+    "221766978941166@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:39.503Z",
+      "lastSeen": "2026-03-26T22:03:39.503Z"
+    },
+    "71267046686825@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:39.507Z",
+      "lastSeen": "2026-03-26T22:03:39.507Z"
+    },
+    "187321274085601@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:39.552Z",
+      "lastSeen": "2026-03-26T22:03:39.552Z"
+    },
+    "29141973905546@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:39.559Z",
+      "lastSeen": "2026-03-26T22:03:39.559Z"
+    },
+    "89061079433227@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:39.588Z",
+      "lastSeen": "2026-03-26T22:03:39.588Z"
+    },
+    "100601673285778@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:39.663Z",
+      "lastSeen": "2026-03-26T22:03:39.663Z"
+    },
+    "30267238547468@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:39.842Z",
+      "lastSeen": "2026-03-26T22:03:40.332Z"
+    },
+    "108344845041816@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:40.149Z",
+      "lastSeen": "2026-03-26T22:03:40.149Z"
+    },
+    "49487284326459@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:40.246Z",
+      "lastSeen": "2026-03-26T22:03:40.246Z"
+    },
+    "246853933228158@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:40.339Z",
+      "lastSeen": "2026-03-26T22:03:40.339Z"
+    },
+    "184198799310898@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:40.344Z",
+      "lastSeen": "2026-03-26T22:03:40.344Z"
+    },
+    "2714603884621@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:40.437Z",
+      "lastSeen": "2026-03-26T22:03:40.437Z"
+    },
+    "261946230178019@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:40.443Z",
+      "lastSeen": "2026-03-26T22:03:40.443Z"
+    },
+    "21239217287389@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:41.230Z",
+      "lastSeen": "2026-03-26T22:03:41.230Z"
+    },
+    "247613907591318@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:41.284Z",
+      "lastSeen": "2026-03-26T22:03:41.284Z"
+    },
+    "73023084331215@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:41.888Z",
+      "lastSeen": "2026-03-26T22:03:41.888Z"
+    },
+    "276591598895303@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:41.939Z",
+      "lastSeen": "2026-03-26T22:03:41.939Z"
+    },
+    "238641938989289@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:42.030Z",
+      "lastSeen": "2026-03-26T22:03:42.030Z"
+    },
+    "280045323079861@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:42.110Z",
+      "lastSeen": "2026-03-26T22:03:42.110Z"
+    },
+    "81961599111417@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:42.147Z",
+      "lastSeen": "2026-03-26T22:03:42.147Z"
+    },
+    "180492343193774@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:42.353Z",
+      "lastSeen": "2026-03-26T22:03:42.353Z"
+    },
+    "265683053109420@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:42.470Z",
+      "lastSeen": "2026-03-26T22:03:42.470Z"
+    },
+    "228596027260935@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:42.559Z",
+      "lastSeen": "2026-03-26T22:03:42.559Z"
+    },
+    "28596479475963@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:42.815Z",
+      "lastSeen": "2026-03-26T22:03:42.815Z"
+    },
+    "106356812042348@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:42.878Z",
+      "lastSeen": "2026-03-26T22:03:42.878Z"
+    },
+    "15101105074340@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:43.066Z",
+      "lastSeen": "2026-03-26T22:03:43.066Z"
+    },
+    "173989813063867@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:43.476Z",
+      "lastSeen": "2026-03-26T22:03:43.476Z"
+    },
+    "253141832441865@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:43.572Z",
+      "lastSeen": "2026-03-26T22:03:43.572Z"
+    },
+    "121707125837961@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:44.038Z",
+      "lastSeen": "2026-03-26T22:03:44.038Z"
+    },
+    "170008244154577@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:44.097Z",
+      "lastSeen": "2026-03-26T22:03:44.097Z"
+    },
+    "36001103741106@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:44.111Z",
+      "lastSeen": "2026-03-26T22:03:44.111Z"
+    },
+    "32070571176191@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:44.181Z",
+      "lastSeen": "2026-03-26T22:03:44.181Z"
+    },
+    "16875547308056@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:44.281Z",
+      "lastSeen": "2026-03-26T22:03:44.281Z"
+    },
+    "127397957468411@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:44.547Z",
+      "lastSeen": "2026-03-26T22:03:44.547Z"
+    },
+    "126203973345294@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:44.749Z",
+      "lastSeen": "2026-03-26T22:03:44.749Z"
+    },
+    "25224493948944@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:44.875Z",
+      "lastSeen": "2026-03-26T22:03:44.875Z"
+    },
+    "59958515245194@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:45.173Z",
+      "lastSeen": "2026-03-26T22:03:45.174Z"
+    },
+    "162187159031916@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:45.787Z",
+      "lastSeen": "2026-03-26T22:03:45.787Z"
+    },
+    "229966256074922@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:45.793Z",
+      "lastSeen": "2026-03-26T22:03:45.793Z"
+    },
+    "273362404266094@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:45.904Z",
+      "lastSeen": "2026-03-26T22:03:45.904Z"
+    },
+    "43289545838686@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:46.470Z",
+      "lastSeen": "2026-03-26T22:03:46.470Z"
+    },
+    "280449117106303@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:46.497Z",
+      "lastSeen": "2026-03-26T22:03:46.497Z"
+    },
+    "59159416406049@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:46.825Z",
+      "lastSeen": "2026-03-26T22:03:46.825Z"
+    },
+    "91595210797223@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:47.214Z",
+      "lastSeen": "2026-03-26T22:03:47.214Z"
+    },
+    "39540123254954@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:47.640Z",
+      "lastSeen": "2026-03-26T22:03:47.640Z"
+    },
+    "198655223042083@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:47.939Z",
+      "lastSeen": "2026-03-26T22:03:54.534Z"
+    },
+    "144702330380454@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:48.190Z",
+      "lastSeen": "2026-03-26T22:03:48.190Z"
+    },
+    "100593133686914@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:48.227Z",
+      "lastSeen": "2026-03-26T22:03:48.227Z"
+    },
+    "226079042195517@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:48.427Z",
+      "lastSeen": "2026-03-26T22:03:48.427Z"
+    },
+    "81394160148560@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:48.634Z",
+      "lastSeen": "2026-03-26T22:03:48.634Z"
+    },
+    "171636103893246@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:48.706Z",
+      "lastSeen": "2026-03-26T22:03:48.706Z"
+    },
+    "228162218799301@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:49.453Z",
+      "lastSeen": "2026-03-26T22:03:49.453Z"
+    },
+    "196233213800532@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:49.651Z",
+      "lastSeen": "2026-03-26T22:03:49.651Z"
+    },
+    "266855579160698@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:49.952Z",
+      "lastSeen": "2026-03-26T22:03:49.952Z"
+    },
+    "186908672000146@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:50.051Z",
+      "lastSeen": "2026-03-26T22:03:50.051Z"
+    },
+    "96465569484811@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:50.526Z",
+      "lastSeen": "2026-03-26T22:03:50.526Z"
+    },
+    "132569282666497@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:50.540Z",
+      "lastSeen": "2026-03-26T22:03:50.540Z"
+    },
+    "230030613442577@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:50.571Z",
+      "lastSeen": "2026-03-26T22:03:50.571Z"
+    },
+    "55208214278251@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:50.689Z",
+      "lastSeen": "2026-03-26T22:03:50.689Z"
+    },
+    "251883138596902@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:50.850Z",
+      "lastSeen": "2026-03-26T22:03:50.850Z"
+    },
+    "32663477968958@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:51.024Z",
+      "lastSeen": "2026-03-26T22:03:51.024Z"
+    },
+    "170527398359058@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:51.713Z",
+      "lastSeen": "2026-03-26T22:03:51.713Z"
+    },
+    "251680922804448@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:51.763Z",
+      "lastSeen": "2026-03-26T22:03:51.763Z"
+    },
+    "31147404849245@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:52.531Z",
+      "lastSeen": "2026-03-26T22:03:52.531Z"
+    },
+    "115561145094245@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:52.711Z",
+      "lastSeen": "2026-03-26T22:03:52.711Z"
+    },
+    "248734977892471@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:53.523Z",
+      "lastSeen": "2026-03-26T22:03:53.523Z"
+    },
+    "165983457124579@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:53.703Z",
+      "lastSeen": "2026-03-26T22:03:53.703Z"
+    },
+    "56659846103131@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:53.725Z",
+      "lastSeen": "2026-03-26T22:03:53.725Z"
+    },
+    "178666965344464@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:53.875Z",
+      "lastSeen": "2026-03-26T22:03:53.875Z"
+    },
+    "170399119704238@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:54.436Z",
+      "lastSeen": "2026-03-26T22:03:54.436Z"
+    },
+    "48713972068368@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:54.462Z",
+      "lastSeen": "2026-03-26T22:03:54.462Z"
+    },
+    "58570687152335@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:54.762Z",
+      "lastSeen": "2026-03-26T22:03:54.762Z"
+    },
+    "273203406569497@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:56.566Z",
+      "lastSeen": "2026-03-26T22:03:56.566Z"
+    },
+    "110411412201672@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:56.666Z",
+      "lastSeen": "2026-03-26T22:03:56.666Z"
+    },
+    "254953872465960@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:57.024Z",
+      "lastSeen": "2026-03-26T22:03:57.024Z"
+    },
+    "18631853342847@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:57.364Z",
+      "lastSeen": "2026-03-26T22:03:57.364Z"
+    },
+    "139359558861029@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:58.464Z",
+      "lastSeen": "2026-03-26T22:03:58.464Z"
+    },
+    "231310496935953@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:03:59.670Z",
+      "lastSeen": "2026-03-26T22:03:59.670Z"
+    },
+    "126212613615844@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:00.275Z",
+      "lastSeen": "2026-03-26T22:04:00.275Z"
+    },
+    "39827969949928@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:01.087Z",
+      "lastSeen": "2026-03-26T22:04:01.087Z"
+    },
+    "258286750322775@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:01.835Z",
+      "lastSeen": "2026-03-26T22:04:01.835Z"
+    },
+    "236885196689469@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:02.029Z",
+      "lastSeen": "2026-03-26T22:04:02.029Z"
+    },
+    "4986842964185@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:02.686Z",
+      "lastSeen": "2026-03-26T22:04:02.686Z"
+    },
+    "268521909026905@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:04.037Z",
+      "lastSeen": "2026-03-26T22:04:04.037Z"
+    },
+    "48761434849381@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:05.004Z",
+      "lastSeen": "2026-03-26T22:04:05.004Z"
+    },
+    "192564892291119@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:12.094Z",
+      "lastSeen": "2026-03-26T22:04:12.095Z"
+    },
+    "184877655793848@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:12.881Z",
+      "lastSeen": "2026-03-26T22:04:13.055Z"
+    },
+    "171236504154288@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:13.021Z",
+      "lastSeen": "2026-03-26T22:04:13.021Z"
+    },
+    "15393766785168@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:14.240Z",
+      "lastSeen": "2026-03-26T22:04:14.240Z"
+    },
+    "278177180057689@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:15.185Z",
+      "lastSeen": "2026-03-26T22:04:15.185Z"
+    },
+    "134471584071904@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:15.362Z",
+      "lastSeen": "2026-03-26T22:04:15.362Z"
+    },
+    "168427914313971@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:18.709Z",
+      "lastSeen": "2026-03-26T22:04:18.709Z"
+    },
+    "125598433317076@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:25.117Z",
+      "lastSeen": "2026-03-26T22:04:25.117Z"
+    },
+    "241656871841860@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:26.400Z",
+      "lastSeen": "2026-03-26T22:15:07.866Z"
+    },
+    "12503388020946@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:27.677Z",
+      "lastSeen": "2026-03-26T22:04:27.677Z"
+    },
+    "123738762817707@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:28.869Z",
+      "lastSeen": "2026-03-26T22:04:28.869Z"
+    },
+    "155628794322986@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:29.352Z",
+      "lastSeen": "2026-03-26T22:04:29.352Z"
+    },
+    "176145433641070@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:29.476Z",
+      "lastSeen": "2026-03-26T22:04:31.694Z"
+    },
+    "11090276700226@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:29.623Z",
+      "lastSeen": "2026-03-26T22:04:29.623Z"
+    },
+    "42499389272146@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:29.734Z",
+      "lastSeen": "2026-03-26T22:04:29.734Z"
+    },
+    "207851234562264@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:30.074Z",
+      "lastSeen": "2026-03-26T22:04:30.074Z"
+    },
+    "118034693890269@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:30.117Z",
+      "lastSeen": "2026-03-26T22:04:30.117Z"
+    },
+    "38337649881260@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:30.861Z",
+      "lastSeen": "2026-03-26T22:04:30.861Z"
+    },
+    "4613499560003@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:30.943Z",
+      "lastSeen": "2026-03-26T22:04:30.943Z"
+    },
+    "140489017802925@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:30.974Z",
+      "lastSeen": "2026-03-26T22:04:30.974Z"
+    },
+    "137078897660052@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:31.128Z",
+      "lastSeen": "2026-03-26T22:04:31.128Z"
+    },
+    "96598528897100@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:31.835Z",
+      "lastSeen": "2026-03-26T22:04:31.835Z"
+    },
+    "110470954541247@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:32.053Z",
+      "lastSeen": "2026-03-26T22:04:32.053Z"
+    },
+    "102057684021446@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:32.444Z",
+      "lastSeen": "2026-03-26T22:04:32.444Z"
+    },
+    "155573060391157@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:32.864Z",
+      "lastSeen": "2026-03-26T22:04:32.864Z"
+    },
+    "87480615346314@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:33.389Z",
+      "lastSeen": "2026-03-26T22:04:33.389Z"
+    },
+    "122742179397846@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:33.479Z",
+      "lastSeen": "2026-03-26T22:04:33.479Z"
+    },
+    "209985900380272@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:33.596Z",
+      "lastSeen": "2026-03-26T22:04:33.596Z"
+    },
+    "60855844663430@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:34.049Z",
+      "lastSeen": "2026-03-26T22:04:34.049Z"
+    },
+    "4780516708517@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:34.353Z",
+      "lastSeen": "2026-03-26T22:04:34.353Z"
+    },
+    "208680263921803@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:34.538Z",
+      "lastSeen": "2026-03-26T22:04:34.538Z"
+    },
+    "273503584534593@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:35.087Z",
+      "lastSeen": "2026-03-26T22:04:35.087Z"
+    },
+    "63222656811079@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:35.290Z",
+      "lastSeen": "2026-03-26T22:04:35.290Z"
+    },
+    "204844606468121@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:35.295Z",
+      "lastSeen": "2026-03-26T22:04:35.295Z"
+    },
+    "46188246114384@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:35.887Z",
+      "lastSeen": "2026-03-26T22:04:35.887Z"
+    },
+    "192913271160982@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:35.892Z",
+      "lastSeen": "2026-03-26T22:04:35.893Z"
+    },
+    "216286634217490@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:36.154Z",
+      "lastSeen": "2026-03-26T22:04:36.154Z"
+    },
+    "215384657518671@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:36.251Z",
+      "lastSeen": "2026-03-26T22:04:36.251Z"
+    },
+    "81420164800710@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:36.954Z",
+      "lastSeen": "2026-03-26T22:04:36.954Z"
+    },
+    "31581465014370@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:37.612Z",
+      "lastSeen": "2026-03-26T22:04:37.612Z"
+    },
+    "202259220688978@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:39.308Z",
+      "lastSeen": "2026-03-26T22:04:39.308Z"
+    },
+    "142807679393827@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:40.810Z",
+      "lastSeen": "2026-03-26T22:04:40.810Z"
+    },
+    "79629415129098@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:41.420Z",
+      "lastSeen": "2026-03-26T22:04:41.420Z"
+    },
+    "251011176394939@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:42.594Z",
+      "lastSeen": "2026-03-26T22:04:42.594Z"
+    },
+    "188000029937702@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:44.843Z",
+      "lastSeen": "2026-03-26T22:04:44.843Z"
+    },
+    "61414374961170@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:46.765Z",
+      "lastSeen": "2026-03-26T22:04:46.765Z"
+    },
+    "183266975977558@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:47.201Z",
+      "lastSeen": "2026-03-26T22:08:27.706Z"
+    },
+    "138135358955661@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:49.619Z",
+      "lastSeen": "2026-03-26T22:04:49.619Z"
+    },
+    "210883481444498@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:52.015Z",
+      "lastSeen": "2026-03-26T22:04:52.015Z"
+    },
+    "201640896385249@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:55.999Z",
+      "lastSeen": "2026-03-26T22:04:55.999Z"
+    },
+    "255856117604454@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:04:56.974Z",
+      "lastSeen": "2026-03-26T22:04:56.974Z"
+    },
+    "171073614127143@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:05:06.663Z",
+      "lastSeen": "2026-03-26T22:05:06.663Z"
+    },
+    "59988395487293@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:05:12.592Z",
+      "lastSeen": "2026-03-26T22:05:12.592Z"
+    },
+    "281393724698799@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:05:19.146Z",
+      "lastSeen": "2026-03-26T22:05:19.146Z"
+    },
+    "42671171186769@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:05:33.100Z",
+      "lastSeen": "2026-03-26T22:14:06.933Z"
+    },
+    "107726906617934@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:05:34.773Z",
+      "lastSeen": "2026-03-26T22:05:34.773Z"
+    },
+    "251638543548436@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:05:34.833Z",
+      "lastSeen": "2026-03-26T22:05:34.833Z"
+    },
+    "199420280877231@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:05:45.889Z",
+      "lastSeen": "2026-03-26T22:05:45.889Z"
+    },
+    "45149367312517@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:05:55.846Z",
+      "lastSeen": "2026-03-26T22:05:55.846Z"
+    },
+    "85925568721136@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:06:12.285Z",
+      "lastSeen": "2026-03-26T22:06:12.285Z"
+    },
+    "196379444027577@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:06:26.399Z",
+      "lastSeen": "2026-03-26T22:06:26.399Z"
+    },
+    "273581497921701@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:06:32.915Z",
+      "lastSeen": "2026-03-26T22:06:32.915Z"
+    },
+    "132199781249214@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:06:49.112Z",
+      "lastSeen": "2026-03-26T22:19:08.004Z"
+    },
+    "87222934052872@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:06:50.107Z",
+      "lastSeen": "2026-03-26T22:14:04.992Z"
+    },
+    "98570220904551@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:06:57.714Z",
+      "lastSeen": "2026-03-26T22:08:43.927Z"
+    },
+    "37727311552735@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:07:02.180Z",
+      "lastSeen": "2026-03-26T22:07:02.180Z"
+    },
+    "220358078689376@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:07:09.595Z",
+      "lastSeen": "2026-03-26T22:08:45.538Z"
+    },
+    "265489695654003@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:08:12.304Z",
+      "lastSeen": "2026-03-26T22:14:51.273Z"
+    },
+    "142168299667606@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:08:25.469Z",
+      "lastSeen": "2026-03-26T22:13:54.745Z"
+    },
+    "18310200619179@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:11:06.422Z",
+      "lastSeen": "2026-03-26T22:11:06.422Z"
+    },
+    "109681234178168@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:11:25.044Z",
+      "lastSeen": "2026-03-26T22:11:34.355Z"
+    },
+    "27917941747820@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:11:27.467Z",
+      "lastSeen": "2026-03-26T22:12:07.112Z"
+    },
+    "53090778665214@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:11:55.772Z",
+      "lastSeen": "2026-03-26T22:16:00.112Z"
+    },
+    "55933627568212@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:12:11.108Z",
+      "lastSeen": "2026-03-26T22:19:51.224Z"
+    },
+    "16944333861006@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:12:27.872Z",
+      "lastSeen": "2026-03-26T22:12:27.872Z"
+    },
+    "166696706912364@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:13:25.870Z",
+      "lastSeen": "2026-03-26T22:21:42.203Z"
+    },
+    "126667913732113@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:13:42.588Z",
+      "lastSeen": "2026-03-26T22:13:42.588Z"
+    },
+    "200854917365782@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:15:16.860Z",
+      "lastSeen": "2026-03-26T22:24:05.280Z"
+    },
+    "260434636611744@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:15:18.869Z",
+      "lastSeen": "2026-03-26T22:15:18.869Z"
+    },
+    "189739508432984@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:15:30.303Z",
+      "lastSeen": "2026-03-26T22:15:30.303Z"
+    },
+    "112051804479591@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:16:01.490Z",
+      "lastSeen": "2026-03-26T22:16:01.490Z"
+    },
+    "58136962564179@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:16:23.619Z",
+      "lastSeen": "2026-03-26T22:24:30.275Z"
+    },
+    "259343664594947@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:17:21.751Z",
+      "lastSeen": "2026-03-26T22:17:21.751Z"
+    },
+    "21273560223919@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:17:21.889Z",
+      "lastSeen": "2026-03-26T22:17:21.889Z"
+    },
+    "122518924972036@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:17:21.998Z",
+      "lastSeen": "2026-03-26T22:17:21.998Z"
+    },
+    "108315434610822@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:17:56.760Z",
+      "lastSeen": "2026-03-26T22:17:56.760Z"
+    },
+    "20981569577018@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:18:55.737Z",
+      "lastSeen": "2026-03-26T22:18:55.737Z"
+    },
+    "235708375629943@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:18:58.300Z",
+      "lastSeen": "2026-03-26T22:19:22.697Z"
+    },
+    "277042654347426@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:21:15.136Z",
+      "lastSeen": "2026-03-26T22:21:17.871Z"
+    },
+    "46395042046041@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:21:56.309Z",
+      "lastSeen": "2026-03-26T22:21:56.309Z"
+    },
+    "104961031561465@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:22:05.244Z",
+      "lastSeen": "2026-03-26T22:22:05.244Z"
+    },
+    "277201501069397@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:23:17.832Z",
+      "lastSeen": "2026-03-26T22:23:17.832Z"
+    },
+    "219666857361579@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:23:19.781Z",
+      "lastSeen": "2026-03-26T22:23:19.781Z"
+    },
+    "10634590703751@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:23:48.051Z",
+      "lastSeen": "2026-03-26T22:23:48.051Z"
+    },
+    "99991855046813@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-26T22:24:15.483Z",
+      "lastSeen": "2026-03-26T22:24:15.483Z"
+    },
+    "246871213789427@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-30T06:51:52.552Z",
+      "lastSeen": "2026-03-30T09:38:33.429Z"
+    },
+    "200120226345026@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-03-30T09:28:33.803Z",
+      "lastSeen": "2026-03-30T09:28:55.222Z"
+    },
+    "263599910047747@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-11T15:10:21.135Z",
+      "lastSeen": "2026-04-21T11:10:38.864Z",
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false
+    },
+    "120363420977982737@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-11T15:10:37.404Z",
+      "lastSeen": "2026-04-11T15:11:58.994Z"
+    },
+    "120363405733015512@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-11T15:10:39.051Z",
+      "lastSeen": "2026-04-11T15:11:56.763Z"
+    },
+    "120363373464276235@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-11T15:11:16.669Z",
+      "lastSeen": "2026-04-11T15:11:50.948Z"
+    },
+    "120363425234987728@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-11T15:11:50.947Z",
+      "lastSeen": "2026-04-11T15:11:50.947Z"
+    },
+    "120363404128974089@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-11T15:12:09.387Z",
+      "lastSeen": "2026-04-11T15:12:09.388Z"
+    },
+    "120363422914813730@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-11T15:12:15.052Z",
+      "lastSeen": "2026-04-11T15:12:15.052Z"
+    },
+    "120363404389852897@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-11T15:12:21.916Z",
+      "lastSeen": "2026-04-11T15:12:21.916Z"
+    },
+    "120363423604570768@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-11T15:12:36.452Z",
+      "lastSeen": "2026-04-11T15:12:36.452Z"
+    },
+    "120363423358635012@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-11T15:12:40.057Z",
+      "lastSeen": "2026-04-11T15:12:40.057Z"
+    },
+    "120363419573498740@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-11T15:12:45.527Z",
+      "lastSeen": "2026-04-11T15:12:45.527Z"
+    },
+    "120363422653287088@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-11T15:13:11.514Z",
+      "lastSeen": "2026-04-11T15:13:11.514Z"
+    },
+    "120363401278001189@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-11T15:13:13.391Z",
+      "lastSeen": "2026-04-11T15:13:13.391Z"
+    },
+    "120363422695086918@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-11T15:13:24.709Z",
+      "lastSeen": "2026-04-11T15:13:24.709Z"
+    },
+    "265854818193649@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-11T15:13:53.225Z",
+      "lastSeen": "2026-04-18T14:26:33.676Z"
+    },
+    "120363397307145011@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-11T15:13:54.925Z",
+      "lastSeen": "2026-04-11T15:13:54.925Z"
+    },
+    "120363423571146260@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-11T15:14:39.165Z",
+      "lastSeen": "2026-04-11T15:14:39.165Z"
+    },
+    "120363423142286937@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-11T15:14:39.266Z",
+      "lastSeen": "2026-04-11T15:14:39.266Z"
+    },
+    "120363423676659427@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-11T15:14:43.532Z",
+      "lastSeen": "2026-04-11T15:14:43.532Z"
+    },
+    "120363423666771129@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-11T15:15:05.034Z",
+      "lastSeen": "2026-04-11T15:22:32.097Z"
+    },
+    "120363422152380838@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-11T15:15:11.084Z",
+      "lastSeen": "2026-04-11T15:24:23.929Z"
+    },
+    "120363405244006818@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-11T15:15:23.826Z",
+      "lastSeen": "2026-04-11T15:22:20.372Z"
+    },
+    "120363423477373168@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-11T15:16:29.789Z",
+      "lastSeen": "2026-04-11T15:16:29.789Z"
+    },
+    "120363402682879346@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-11T15:16:38.703Z",
+      "lastSeen": "2026-04-11T15:16:38.703Z"
+    },
+    "120363404314172064@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-11T15:16:52.200Z",
+      "lastSeen": "2026-04-11T15:16:52.200Z"
+    },
+    "205115172597965@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-11T15:17:43.646Z",
+      "lastSeen": "2026-04-20T16:07:07.259Z"
+    },
+    "96195053678601@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-11T15:18:19.155Z",
+      "lastSeen": "2026-04-18T15:08:58.545Z"
+    },
+    "164137208422615@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-11T15:18:55.034Z",
+      "lastSeen": "2026-04-21T10:58:00.626Z",
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false
+    },
+    "120363405999252940@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-11T15:22:37.986Z",
+      "lastSeen": "2026-04-11T15:22:37.986Z"
+    },
+    "232482972635227@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T05:23:07.372Z",
+      "lastSeen": "2026-04-15T06:39:17.799Z"
+    },
+    "68634063966430@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T05:23:13.505Z",
+      "lastSeen": "2026-04-21T11:42:28.209Z",
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false
+    },
+    "65885050023947@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T05:23:28.141Z",
+      "lastSeen": "2026-04-18T14:50:53.355Z"
+    },
+    "233642395742342@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T05:23:29.806Z",
+      "lastSeen": "2026-04-21T11:44:23.942Z",
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false
+    },
+    "201228311085113@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T05:23:45.342Z",
+      "lastSeen": "2026-04-21T11:36:26.548Z",
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false
+    },
+    "212854988878058@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T05:23:58.958Z",
+      "lastSeen": "2026-04-18T14:55:35.123Z"
+    },
+    "165657660358910@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T05:24:06.061Z",
+      "lastSeen": "2026-04-17T20:13:10.246Z"
+    },
+    "114525890203793@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T05:24:08.176Z",
+      "lastSeen": "2026-04-20T12:08:09.177Z"
+    },
+    "22256688341160@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T05:27:52.016Z",
+      "lastSeen": "2026-04-18T14:30:36.703Z"
+    },
+    "117643969351877@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T05:28:13.756Z",
+      "lastSeen": "2026-04-18T14:24:43.737Z"
+    },
+    "242060078616744@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T05:28:14.675Z",
+      "lastSeen": "2026-04-18T14:47:42.958Z"
+    },
+    "119065234411613@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T05:28:17.116Z",
+      "lastSeen": "2026-04-21T11:54:47.796Z",
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false
+    },
+    "239981952016600@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T05:28:27.339Z",
+      "lastSeen": "2026-04-18T12:04:57.085Z"
+    },
+    "126027846152250@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T05:39:41.978Z",
+      "lastSeen": "2026-04-17T09:51:22.032Z"
+    },
+    "16566343209205@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T05:42:17.154Z",
+      "lastSeen": "2026-04-17T20:10:31.495Z"
+    },
+    "6051625738251@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T05:42:34.487Z",
+      "lastSeen": "2026-04-18T13:50:32.693Z"
+    },
+    "59125190946953@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T05:42:56.606Z",
+      "lastSeen": "2026-04-15T06:18:04.247Z"
+    },
+    "235411670601850@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T05:42:57.424Z",
+      "lastSeen": "2026-04-20T16:49:21.833Z"
+    },
+    "132779283087413@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T05:45:19.255Z",
+      "lastSeen": "2026-04-18T14:37:15.851Z"
+    },
+    "120363421065039811@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T05:46:14.825Z",
+      "lastSeen": "2026-04-18T14:48:13.145Z"
+    },
+    "208653990772782@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T05:47:53.242Z",
+      "lastSeen": "2026-04-18T13:06:15.751Z"
+    },
+    "244208266903799@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T05:49:13.548Z",
+      "lastSeen": "2026-04-18T14:23:28.233Z"
+    },
+    "222681907634181@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T05:50:56.936Z",
+      "lastSeen": "2026-04-15T05:51:01.419Z"
+    },
+    "222767622434873@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T05:50:58.620Z",
+      "lastSeen": "2026-04-17T09:03:07.226Z"
+    },
+    "8899809833026@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T05:55:19.774Z",
+      "lastSeen": "2026-04-15T06:14:05.800Z"
+    },
+    "173254920646733@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T05:56:44.879Z",
+      "lastSeen": "2026-04-18T14:43:25.820Z"
+    },
+    "30451351724166@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T05:58:04.124Z",
+      "lastSeen": "2026-04-18T14:18:29.767Z"
+    },
+    "103126845620447@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:01:22.014Z",
+      "lastSeen": "2026-04-17T20:10:04.603Z"
+    },
+    "185108996862044@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:12:34.148Z",
+      "lastSeen": "2026-04-15T06:39:13.398Z"
+    },
+    "218089899704340@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:14:18.310Z",
+      "lastSeen": "2026-04-18T14:50:51.780Z"
+    },
+    "160735460126845@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:16:30.449Z",
+      "lastSeen": "2026-04-21T11:35:42.749Z",
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false,
+      "afk": {
+        "status": true,
+        "reason": "I'll play PUBG and free fire from now on",
+        "afkTime": 1776771342760
+      }
+    },
+    "37130663374979@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:17:31.204Z",
+      "lastSeen": "2026-04-18T14:59:01.492Z"
+    },
+    "4630478069969@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:03.434Z",
+      "lastSeen": "2026-04-18T14:50:50.652Z"
+    },
+    "260275555049488@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:03.531Z",
+      "lastSeen": "2026-04-15T06:18:03.531Z"
+    },
+    "133380612075635@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:03.975Z",
+      "lastSeen": "2026-04-15T06:18:03.975Z"
+    },
+    "245642114900077@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:04.277Z",
+      "lastSeen": "2026-04-15T06:18:04.277Z"
+    },
+    "57424350306478@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:04.305Z",
+      "lastSeen": "2026-04-15T06:18:04.305Z"
+    },
+    "139432288067656@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:04.358Z",
+      "lastSeen": "2026-04-18T14:50:51.671Z"
+    },
+    "103049737535629@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:04.439Z",
+      "lastSeen": "2026-04-18T14:50:52.333Z"
+    },
+    "226057097609390@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:04.473Z",
+      "lastSeen": "2026-04-17T08:59:08.916Z"
+    },
+    "257053826281573@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:04.514Z",
+      "lastSeen": "2026-04-18T14:50:51.957Z"
+    },
+    "141837553631246@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:04.542Z",
+      "lastSeen": "2026-04-15T06:18:04.542Z"
+    },
+    "95975758627024@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:04.564Z",
+      "lastSeen": "2026-04-18T14:50:52.562Z"
+    },
+    "281132000112795@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:04.587Z",
+      "lastSeen": "2026-04-18T14:50:51.856Z"
+    },
+    "3436712067124@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:08.091Z",
+      "lastSeen": "2026-04-18T14:46:05.181Z"
+    },
+    "89765286277198@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:08.156Z",
+      "lastSeen": "2026-04-15T06:18:08.156Z"
+    },
+    "241468061044914@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:08.200Z",
+      "lastSeen": "2026-04-18T14:50:51.988Z"
+    },
+    "82128616333465@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:08.260Z",
+      "lastSeen": "2026-04-21T11:32:54.329Z",
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false
+    },
+    "128982649454791@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:08.379Z",
+      "lastSeen": "2026-04-18T14:50:52.020Z"
+    },
+    "90035466584195@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:08.409Z",
+      "lastSeen": "2026-04-18T14:50:52.853Z"
+    },
+    "41764782104798@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:08.439Z",
+      "lastSeen": "2026-04-18T14:50:53.694Z"
+    },
+    "190031549472820@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:08.465Z",
+      "lastSeen": "2026-04-18T14:50:53.149Z"
+    },
+    "265154788892779@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:08.671Z",
+      "lastSeen": "2026-04-15T06:18:08.671Z"
+    },
+    "228978279379132@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:08.778Z",
+      "lastSeen": "2026-04-15T06:18:08.778Z"
+    },
+    "185302740127886@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:08.913Z",
+      "lastSeen": "2026-04-18T14:50:53.636Z"
+    },
+    "218828617306228@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:08.961Z",
+      "lastSeen": "2026-04-18T14:50:53.861Z"
+    },
+    "98522925944882@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:09.001Z",
+      "lastSeen": "2026-04-18T14:50:53.533Z"
+    },
+    "169402318233760@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:09.062Z",
+      "lastSeen": "2026-04-18T14:44:24.007Z"
+    },
+    "253592653033608@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:09.141Z",
+      "lastSeen": "2026-04-21T11:46:39.184Z",
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false
+    },
+    "263470910038120@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:09.212Z",
+      "lastSeen": "2026-04-18T14:50:53.081Z"
+    },
+    "169020166779042@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:09.322Z",
+      "lastSeen": "2026-04-15T06:18:09.322Z"
+    },
+    "226336790597767@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:09.402Z",
+      "lastSeen": "2026-04-15T06:18:09.402Z"
+    },
+    "129476587450523@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:09.524Z",
+      "lastSeen": "2026-04-15T06:18:09.524Z"
+    },
+    "135468066853024@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:09.783Z",
+      "lastSeen": "2026-04-15T06:18:09.783Z"
+    },
+    "174702291095686@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:09.866Z",
+      "lastSeen": "2026-04-18T14:50:52.521Z"
+    },
+    "25404815470638@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:10.240Z",
+      "lastSeen": "2026-04-20T17:12:57.295Z"
+    },
+    "244242593136644@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:10.315Z",
+      "lastSeen": "2026-04-15T06:18:10.315Z"
+    },
+    "37100598595721@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:10.903Z",
+      "lastSeen": "2026-04-15T06:18:10.903Z"
+    },
+    "133075887505582@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:11.533Z",
+      "lastSeen": "2026-04-18T14:50:53.753Z"
+    },
+    "138856712143077@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:11.604Z",
+      "lastSeen": "2026-04-20T18:03:05.411Z",
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false
+    },
+    "45321065369763@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:11.831Z",
+      "lastSeen": "2026-04-15T06:18:11.831Z"
+    },
+    "30589075910677@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:12.077Z",
+      "lastSeen": "2026-04-18T14:50:52.752Z"
+    },
+    "192767376490510@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:14.080Z",
+      "lastSeen": "2026-04-17T20:09:42.679Z"
+    },
+    "280049752227868@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:16.211Z",
+      "lastSeen": "2026-04-18T14:50:52.954Z"
+    },
+    "23137609629805@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:16.848Z",
+      "lastSeen": "2026-04-18T14:51:47.481Z"
+    },
+    "33166442119206@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:19.837Z",
+      "lastSeen": "2026-04-15T06:18:19.837Z"
+    },
+    "234303971655918@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:19.871Z",
+      "lastSeen": "2026-04-18T14:50:53.789Z"
+    },
+    "230944753639613@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:22.987Z",
+      "lastSeen": "2026-04-15T06:18:22.987Z"
+    },
+    "222544384778390@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:23.910Z",
+      "lastSeen": "2026-04-15T06:18:23.910Z"
+    },
+    "193686533054631@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:26.324Z",
+      "lastSeen": "2026-04-15T06:18:26.324Z"
+    },
+    "3942796771515@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:31.174Z",
+      "lastSeen": "2026-04-18T14:50:54.173Z"
+    },
+    "25079069057222@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:31.200Z",
+      "lastSeen": "2026-04-18T14:50:51.122Z"
+    },
+    "80458176049326@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:31.230Z",
+      "lastSeen": "2026-04-18T14:50:53.831Z"
+    },
+    "231061372072173@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:18:51.511Z",
+      "lastSeen": "2026-04-15T06:18:51.511Z"
+    },
+    "1189823410391@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:19:02.509Z",
+      "lastSeen": "2026-04-15T06:19:02.509Z"
+    },
+    "35876348416127@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:19:07.071Z",
+      "lastSeen": "2026-04-18T11:50:46.790Z"
+    },
+    "105399084687576@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:19:07.704Z",
+      "lastSeen": "2026-04-15T06:19:07.704Z"
+    },
+    "118571766161577@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:19:13.214Z",
+      "lastSeen": "2026-04-18T14:50:52.458Z"
+    },
+    "175088854933617@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:19:17.891Z",
+      "lastSeen": "2026-04-15T06:19:31.292Z"
+    },
+    "179586054783099@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:19:30.850Z",
+      "lastSeen": "2026-04-20T16:48:45.447Z"
+    },
+    "119791385845768@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:19:48.705Z",
+      "lastSeen": "2026-04-21T11:05:31.262Z",
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false
+    },
+    "56715781374191@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:19:56.659Z",
+      "lastSeen": "2026-04-18T15:09:08.528Z"
+    },
+    "278554566733980@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:19:56.826Z",
+      "lastSeen": "2026-04-15T06:19:56.826Z"
+    },
+    "22226506121464@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:35:15.612Z",
+      "lastSeen": "2026-04-18T14:46:34.642Z"
+    },
+    "206777090064621@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:35:35.259Z",
+      "lastSeen": "2026-04-15T06:35:35.259Z"
+    },
+    "131980704387247@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-15T06:36:00.834Z",
+      "lastSeen": "2026-04-20T19:46:47.873Z",
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false
+    },
+    "26964173840602@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T07:49:31.460Z",
+      "lastSeen": "2026-04-18T14:00:47.353Z"
+    },
+    "72293225087079@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T07:51:37.341Z",
+      "lastSeen": "2026-04-17T09:01:51.718Z"
+    },
+    "185276718698642@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T07:51:37.608Z",
+      "lastSeen": "2026-04-21T11:54:44.243Z",
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false
+    },
+    "151956647628847@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T08:04:27.569Z",
+      "lastSeen": "2026-04-18T14:35:09.497Z"
+    },
+    "115857464262887@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T08:29:10.844Z",
+      "lastSeen": "2026-04-17T20:13:05.541Z"
+    },
+    "87557975052410@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T08:31:05.130Z",
+      "lastSeen": "2026-04-18T12:32:11.398Z"
+    },
+    "7963657920601@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T08:31:05.467Z",
+      "lastSeen": "2026-04-17T20:10:16.841Z"
+    },
+    "106489586925696@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T08:47:10.523Z",
+      "lastSeen": "2026-04-18T14:44:17.138Z"
+    },
+    "202018165633152@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T09:15:37.439Z",
+      "lastSeen": "2026-04-17T09:15:42.854Z"
+    },
+    "188360505212946@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T09:18:26.130Z",
+      "lastSeen": "2026-04-20T18:17:40.986Z",
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false
+    },
+    "112910965731480@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T09:24:13.143Z",
+      "lastSeen": "2026-04-18T13:18:56.205Z"
+    },
+    "106278965796909@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T09:27:12.202Z",
+      "lastSeen": "2026-04-18T15:05:15.155Z"
+    },
+    "76244896997546@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T09:28:26.762Z",
+      "lastSeen": "2026-04-17T09:28:26.762Z"
+    },
+    "137212024848578@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T09:31:09.035Z",
+      "lastSeen": "2026-04-17T09:31:09.035Z"
+    },
+    "171588355903730@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T09:31:25.113Z",
+      "lastSeen": "2026-04-20T12:08:50.038Z"
+    },
+    "193359947759629@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T09:39:06.907Z",
+      "lastSeen": "2026-04-17T09:39:06.907Z",
+      "afk": {
+        "status": true,
+        "reason": "Tanpa alasan",
+        "afkTime": 1776418746969
+      }
+    },
+    "30172497621012@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T09:40:58.113Z",
+      "lastSeen": "2026-04-18T11:58:05.580Z"
+    },
+    "217325630390335@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T09:43:36.433Z",
+      "lastSeen": "2026-04-18T14:39:33.387Z"
+    },
+    "206163446599723@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T12:05:43.218Z",
+      "lastSeen": "2026-04-17T20:13:02.975Z"
+    },
+    "186990595166242@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T12:06:06.723Z",
+      "lastSeen": "2026-04-17T20:08:28.795Z"
+    },
+    "104918081884296@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T12:39:00.656Z",
+      "lastSeen": "2026-04-17T12:39:00.656Z"
+    },
+    "148555067048121@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T12:39:51.633Z",
+      "lastSeen": "2026-04-17T12:40:52.523Z"
+    },
+    "120363221360125809@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T12:43:48.468Z",
+      "lastSeen": "2026-04-18T14:48:10.543Z"
+    },
+    "190241382105286@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T12:48:19.124Z",
+      "lastSeen": "2026-04-17T12:56:41.448Z"
+    },
+    "179624743067740@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T12:48:50.099Z",
+      "lastSeen": "2026-04-17T12:52:14.530Z"
+    },
+    "153335298523294@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T13:03:23.391Z",
+      "lastSeen": "2026-04-18T14:50:53.238Z"
+    },
+    "76476472918075@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T13:20:00.922Z",
+      "lastSeen": "2026-04-17T13:20:00.922Z"
+    },
+    "120363407635777414@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T13:31:28.136Z",
+      "lastSeen": "2026-04-17T13:31:28.136Z"
+    },
+    "68522579345564@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T13:35:10.057Z",
+      "lastSeen": "2026-04-20T12:20:09.314Z"
+    },
+    "39625485713644@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T20:08:58.641Z",
+      "lastSeen": "2026-04-17T20:09:01.448Z"
+    },
+    "60851130253419@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T20:09:07.321Z",
+      "lastSeen": "2026-04-17T20:10:07.806Z"
+    },
+    "42821377638613@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T20:09:32.367Z",
+      "lastSeen": "2026-04-17T20:09:32.367Z"
+    },
+    "78997987790925@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T20:10:50.898Z",
+      "lastSeen": "2026-04-18T14:41:28.730Z"
+    },
+    "165369629126846@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T20:10:52.231Z",
+      "lastSeen": "2026-04-17T20:10:52.231Z"
+    },
+    "140295861760142@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T20:11:20.541Z",
+      "lastSeen": "2026-04-17T20:11:25.782Z"
+    },
+    "95717741826158@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T20:11:26.164Z",
+      "lastSeen": "2026-04-18T14:38:12.776Z"
+    },
+    "4218110898242@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T20:11:48.620Z",
+      "lastSeen": "2026-04-18T11:50:56.863Z"
+    },
+    "16690259742861@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-17T20:12:24.544Z",
+      "lastSeen": "2026-04-17T20:12:28.061Z"
+    },
+    "25770239992037@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T11:04:19.822Z",
+      "lastSeen": "2026-04-18T14:36:16.148Z"
+    },
+    "107873036165271@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T11:09:25.352Z",
+      "lastSeen": "2026-04-18T14:47:48.166Z"
+    },
+    "67139432140869@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T11:30:37.962Z",
+      "lastSeen": "2026-04-18T14:57:33.354Z"
+    },
+    "163647162740810@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T11:33:17.080Z",
+      "lastSeen": "2026-04-18T11:35:04.057Z"
+    },
+    "77889785602244@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T11:34:54.077Z",
+      "lastSeen": "2026-04-18T11:36:01.616Z"
+    },
+    "137611054157906@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T11:37:22.759Z",
+      "lastSeen": "2026-04-18T15:05:27.730Z"
+    },
+    "242189548412971@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T11:38:20.869Z",
+      "lastSeen": "2026-04-18T11:38:21.626Z"
+    },
+    "107980242550961@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T11:40:44.323Z",
+      "lastSeen": "2026-04-18T14:19:27.724Z"
+    },
+    "15801855783088@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T11:41:25.599Z",
+      "lastSeen": "2026-04-18T14:55:14.648Z"
+    },
+    "204518423846926@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T11:47:31.354Z",
+      "lastSeen": "2026-04-18T11:57:15.727Z"
+    },
+    "262341501407260@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T11:52:02.737Z",
+      "lastSeen": "2026-04-18T11:52:02.737Z"
+    },
+    "4403130065139@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T11:53:39.314Z",
+      "lastSeen": "2026-04-18T14:50:51.084Z"
+    },
+    "82343465361604@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T12:01:51.991Z",
+      "lastSeen": "2026-04-18T12:01:51.991Z"
+    },
+    "189305515458637@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T12:04:10.531Z",
+      "lastSeen": "2026-04-18T12:21:23.969Z"
+    },
+    "6022081077338@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T12:10:59.959Z",
+      "lastSeen": "2026-04-20T12:25:08.393Z"
+    },
+    "241828871798885@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T12:15:39.184Z",
+      "lastSeen": "2026-04-21T10:56:22.924Z",
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false
+    },
+    "143332252590177@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T12:17:42.052Z",
+      "lastSeen": "2026-04-18T12:17:42.052Z"
+    },
+    "142657959551188@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T12:21:54.342Z",
+      "lastSeen": "2026-04-18T12:21:54.342Z"
+    },
+    "217007786090610@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T12:26:32.858Z",
+      "lastSeen": "2026-04-18T12:26:32.858Z"
+    },
+    "199501751037963@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T12:28:57.763Z",
+      "lastSeen": "2026-04-18T14:47:03.571Z"
+    },
+    "131353169387571@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T12:47:52.401Z",
+      "lastSeen": "2026-04-18T14:21:55.840Z"
+    },
+    "260829840732239@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T13:00:51.847Z",
+      "lastSeen": "2026-04-18T13:00:51.847Z"
+    },
+    "100184809836674@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T13:01:04.902Z",
+      "lastSeen": "2026-04-18T13:09:07.187Z"
+    },
+    "119602508001478@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T13:11:04.450Z",
+      "lastSeen": "2026-04-20T18:05:41.972Z",
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false
+    },
+    "130829686685723@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T13:13:28.617Z",
+      "lastSeen": "2026-04-18T13:15:05.528Z"
+    },
+    "126048851235024@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T13:52:58.353Z",
+      "lastSeen": "2026-04-18T13:52:58.353Z"
+    },
+    "123416522801166@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T13:53:40.948Z",
+      "lastSeen": "2026-04-18T13:53:40.948Z"
+    },
+    "111626854391947@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T14:02:21.258Z",
+      "lastSeen": "2026-04-20T19:18:59.642Z",
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false
+    },
+    "74548267450581@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T14:09:31.825Z",
+      "lastSeen": "2026-04-18T14:09:31.825Z"
+    },
+    "75059502833668@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T14:09:41.772Z",
+      "lastSeen": "2026-04-18T14:09:49.134Z"
+    },
+    "172138430521390@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T14:10:20.762Z",
+      "lastSeen": "2026-04-18T14:10:20.763Z"
+    },
+    "204995148402880@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T14:24:07.570Z",
+      "lastSeen": "2026-04-18T14:49:23.394Z"
+    },
+    "172233003647151@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T14:27:30.192Z",
+      "lastSeen": "2026-04-18T15:08:21.448Z"
+    },
+    "193450175668358@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T14:35:00.431Z",
+      "lastSeen": "2026-04-18T14:50:52.670Z"
+    },
+    "122218310811654@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T14:37:19.739Z",
+      "lastSeen": "2026-04-18T14:49:49.547Z"
+    },
+    "120363299835520621@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T14:50:49.010Z",
+      "lastSeen": "2026-04-18T15:01:46.812Z"
+    },
+    "234888104034544@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T14:50:50.967Z",
+      "lastSeen": "2026-04-18T14:50:50.967Z"
+    },
+    "77430039568590@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T14:50:51.259Z",
+      "lastSeen": "2026-04-18T14:50:51.259Z"
+    },
+    "85917230469275@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T14:50:51.820Z",
+      "lastSeen": "2026-04-18T14:50:51.820Z"
+    },
+    "116102025720039@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T14:50:52.133Z",
+      "lastSeen": "2026-04-18T14:50:52.133Z"
+    },
+    "247656991449210@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T14:50:52.393Z",
+      "lastSeen": "2026-04-18T14:50:52.393Z"
+    },
+    "211437398028443@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T14:50:53.028Z",
+      "lastSeen": "2026-04-18T15:09:06.097Z"
+    },
+    "42928919560355@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T14:50:53.271Z",
+      "lastSeen": "2026-04-18T14:50:53.271Z"
+    },
+    "55027792105520@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T14:50:53.416Z",
+      "lastSeen": "2026-04-18T14:50:53.416Z"
+    },
+    "190761593270451@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T14:50:53.572Z",
+      "lastSeen": "2026-04-18T14:50:53.572Z"
+    },
+    "245470668537930@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T14:50:53.899Z",
+      "lastSeen": "2026-04-18T14:50:53.899Z"
+    },
+    "144380241440988@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T14:53:16.276Z",
+      "lastSeen": "2026-04-21T11:36:07.090Z",
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false
+    },
+    "191967908606006@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T14:54:40.375Z",
+      "lastSeen": "2026-04-18T14:54:40.375Z"
+    },
+    "157131965726901@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T15:01:03.848Z",
+      "lastSeen": "2026-04-18T15:01:03.848Z"
+    },
+    "35670357745867@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-18T15:07:41.503Z",
+      "lastSeen": "2026-04-18T15:07:41.503Z"
+    },
+    "6288801074059@s.whatsapp.net": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-20T11:55:02.759Z",
+      "lastSeen": "2026-04-21T11:52:49.324Z",
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false,
+      "afk": {
+        "status": true,
+        "reason": "mau ngentod",
+        "afkTime": 1776771491234
+      }
+    },
+    "254021696757774@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-20T11:58:42.074Z",
+      "lastSeen": "2026-04-20T12:02:14.701Z"
+    },
+    "129253031076013@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-20T12:00:15.703Z",
+      "lastSeen": "2026-04-20T12:00:15.704Z"
+    },
+    "9629803274383@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-20T12:05:53.703Z",
+      "lastSeen": "2026-04-20T12:05:56.284Z"
+    },
+    "64785605521441@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-20T12:09:20.036Z",
+      "lastSeen": "2026-04-20T12:18:12.622Z"
+    },
+    "16286935445545@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-20T12:22:28.226Z",
+      "lastSeen": "2026-04-20T12:22:46.265Z"
+    },
+    "4505588469831@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-20T15:58:02.483Z",
+      "lastSeen": "2026-04-20T19:37:26.899Z",
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false
+    },
+    "170064196177976@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-20T16:01:35.848Z",
+      "lastSeen": "2026-04-20T16:01:48.819Z"
+    },
+    "262156717191201@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-20T16:32:18.903Z",
+      "lastSeen": "2026-04-20T16:32:18.903Z"
+    },
+    "34807102840992@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "firstSeen": "2026-04-20T16:34:08.755Z",
+      "lastSeen": "2026-04-21T11:33:29.599Z",
+      "registered": true,
+      "name": "wanzofc",
+      "age": "17",
+      "limit": 10,
+      "banned": false
+    },
+    "120363288037652001@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false,
+      "firstSeen": "2026-04-20T18:05:45.686Z",
+      "lastSeen": "2026-04-21T11:25:33.699Z"
+    },
+    "120363212344542176@newsletter": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false,
+      "firstSeen": "2026-04-20T18:32:08.443Z",
+      "lastSeen": "2026-04-20T18:32:08.443Z"
+    },
+    "6283110390167@s.whatsapp.net": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false,
+      "firstSeen": "2026-04-20T19:10:01.217Z",
+      "lastSeen": "2026-04-20T19:43:40.865Z"
+    },
+    "207928124534959@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false,
+      "firstSeen": "2026-04-20T19:16:00.844Z",
+      "lastSeen": "2026-04-20T19:35:35.859Z"
+    },
+    "185727656693858@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false,
+      "firstSeen": "2026-04-20T19:19:21.282Z",
+      "lastSeen": "2026-04-20T19:19:21.282Z"
+    },
+    "27071766118562@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false,
+      "firstSeen": "2026-04-20T19:24:34.307Z",
+      "lastSeen": "2026-04-20T19:24:34.307Z"
+    },
+    "130541974208741@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false,
+      "firstSeen": "2026-04-20T19:24:55.122Z",
+      "lastSeen": "2026-04-20T19:45:45.456Z"
+    },
+    "209461276864649@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false,
+      "firstSeen": "2026-04-20T19:25:42.706Z",
+      "lastSeen": "2026-04-20T19:25:42.706Z"
+    },
+    "148748256714889@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false,
+      "firstSeen": "2026-04-20T19:26:20.929Z",
+      "lastSeen": "2026-04-20T19:26:20.929Z"
+    },
+    "81575035289837@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false,
+      "firstSeen": "2026-04-20T19:41:03.945Z",
+      "lastSeen": "2026-04-20T19:46:34.840Z"
+    },
+    "164854300160164@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false,
+      "firstSeen": "2026-04-20T19:41:06.326Z",
+      "lastSeen": "2026-04-20T19:48:31.143Z"
+    },
+    "183945379491937@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false,
+      "firstSeen": "2026-04-20T19:43:59.174Z",
+      "lastSeen": "2026-04-20T19:43:59.174Z"
+    },
+    "219202967318569@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false,
+      "firstSeen": "2026-04-20T19:45:26.748Z",
+      "lastSeen": "2026-04-20T19:45:51.182Z"
+    },
+    "162092770410656@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false,
+      "firstSeen": "2026-04-21T11:11:18.814Z",
+      "lastSeen": "2026-04-21T11:54:24.401Z"
+    },
+    "272013851685016@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false,
+      "firstSeen": "2026-04-21T11:11:43.910Z",
+      "lastSeen": "2026-04-21T11:12:30.562Z"
+    },
+    "279435337011281@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false,
+      "firstSeen": "2026-04-21T11:14:26.875Z",
+      "lastSeen": "2026-04-21T11:47:19.637Z"
+    },
+    "181436984336419@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false,
+      "firstSeen": "2026-04-21T11:16:54.488Z",
+      "lastSeen": "2026-04-21T11:16:54.488Z"
+    },
+    "261821793620080@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false,
+      "firstSeen": "2026-04-21T11:16:56.595Z",
+      "lastSeen": "2026-04-21T11:18:48.500Z"
+    },
+    "198599925317672@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false,
+      "firstSeen": "2026-04-21T11:17:01.669Z",
+      "lastSeen": "2026-04-21T11:27:31.565Z"
+    },
+    "260069262401691@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false,
+      "firstSeen": "2026-04-21T11:18:44.858Z",
+      "lastSeen": "2026-04-21T11:18:44.858Z"
+    },
+    "134042255138900@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false,
+      "firstSeen": "2026-04-21T11:21:18.354Z",
+      "lastSeen": "2026-04-21T11:21:21.358Z"
+    },
+    "198857120026699@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false,
+      "firstSeen": "2026-04-21T11:26:14.071Z",
+      "lastSeen": "2026-04-21T11:26:16.526Z"
+    },
+    "95623772635293@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false,
+      "firstSeen": "2026-04-21T11:27:09.265Z",
+      "lastSeen": "2026-04-21T11:43:03.357Z"
+    },
+    "72564042936429@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false,
+      "firstSeen": "2026-04-21T11:39:36.003Z",
+      "lastSeen": "2026-04-21T11:39:36.003Z"
+    },
+    "40214349263062@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false,
+      "firstSeen": "2026-04-21T11:43:28.964Z",
+      "lastSeen": "2026-04-21T11:53:40.077Z"
+    },
+    "26375813623824@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false,
+      "firstSeen": "2026-04-21T11:44:02.725Z",
+      "lastSeen": "2026-04-21T11:44:55.443Z"
+    },
+    "210780402241764@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false,
+      "firstSeen": "2026-04-21T11:47:15.898Z",
+      "lastSeen": "2026-04-21T11:47:15.898Z"
+    },
+    "154129833975917@lid": {
+      "totalBeli": 0,
+      "totalSpent": 0,
+      "registered": false,
+      "name": "",
+      "age": "",
+      "limit": 10,
+      "banned": false,
+      "firstSeen": "2026-04-21T11:51:37.716Z",
+      "lastSeen": "2026-04-21T11:52:47.308Z"
+    }
+  },
+  "groups": {
+    "120363422787398002@g.us": {
+      "antilink": true,
+      "antilink2": false,
+      "autopromosi": false,
+      "welcome": false,
+      "antilinkWarnings": {}
+    },
+    "120363384236763763@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "autopromosi": false,
+      "welcome": false,
+      "antilinkWarnings": {}
+    },
+    "120363421613752678@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "autopromosi": false,
+      "welcome": false,
+      "antilinkWarnings": {}
+    },
+    "120363417876589581@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363408471874174@g.us": {
+      "antilink": true,
+      "antilink2": false,
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363419518266697@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363425572481812@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "autopromosi": false,
+      "welcome": false,
+      "antilinkWarnings": {}
+    },
+    "120363422715196769@g.us": {
+      "antilink": true,
+      "antilinkWarnings": {},
+      "antilink2": false,
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363402501118910@g.us": {
+      "antilink": false,
+      "antilinkWarnings": {},
+      "antilink2": false,
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363420361923544@g.us": {
+      "antilink": false,
+      "antilinkWarnings": {},
+      "antilink2": false,
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363407917602908@g.us": {
+      "antilink": false,
+      "antilinkWarnings": {},
+      "antilink2": false,
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363423372238592@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363404174771364@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363407527680514@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363425608038322@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363405873370877@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363426188556030@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363319805904314@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363425110027562@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363407448255395@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363408972164058@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363321966149685@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363407451580634@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363408175050590@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363426013113138@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363424769825168@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363406568725954@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363407795894210@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363285490883383@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363406004209150@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363425748973724@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "6281802720914-1531196892@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363400523408924@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363425714242727@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363426425465002@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363423407891947@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363420996720776@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363425462450751@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363406459953721@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363406934254566@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363423377067546@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363425921286951@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363424628716312@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363405254510106@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363406900403243@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363408427525026@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363406234119805@g.us": {
+      "antilink": true,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {
+        "34807102840992@lid": 5,
+        "131980704387247@lid": 1
+      },
+      "autopromosi": false,
+      "welcome": true,
+      "antilinkRestrictedUsers": {
+        "34807102840992@lid": {
+          "count": 5,
+          "startedAt": 1776768948218,
+          "until": 1776941748218
+        }
+      },
+      "goodbye": false
+    },
+    "120363403804725270@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false,
+      "antilinkRestrictedUsers": {},
+      "goodbye": false
+    },
+    "120363405695996876@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363415294551114@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363427107941981@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363427036206977@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363405478318644@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363350085895195@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false,
+      "antilinkRestrictedUsers": {},
+      "goodbye": false
+    },
+    "120363424937037544@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363422348141363@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363405829490403@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363420258062445@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363422059431456@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363425053119611@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363425176728203@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363406842063975@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    },
+    "120363423171126598@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "antilink3": false,
+      "antilinkWarnings": {},
+      "autopromosi": false,
+      "welcome": false
+    }
+  },
+  "settings": {
+    "owner": [],
+    "list": [],
+    "stockDB": {
+      "do": {},
+      "script": {},
+      "apps": {}
+    },
+    "bljpm": [
+      "120363419518266697@g.us"
+    ],
+    "self": true,
+    "autoAi": true,
+    "autoJpm": {
+      "enabled": false,
+      "message": {
+        "text": " OPEN JASA PEMBUATAN WEBSITE BY *WANZOFC*\n> BEBAS REQUEST \n> HARGA TERJANGKAU \n> FREE DOMAIN (ORDER MINIM 50K)\nMENERIMA FIXXED CODE BOT/WEB/APLIKASI \n> HARGA MULAI DARI 20 - 20.000.000.00 😛✌️\nJUST CALL ME\nwa.me/212-782754821",
+        "media": null
+      },
+      "interval": 3600000
+    },
+    "autoJoinGc": true,
+    "autoStory": {
+      "enabled": true,
+      "interval": "0 * * * *",
+      "message": {
+        "text": "Nonton film favorit makin gampang di Zero/Wanzofc 🎬\nNikmati berbagai genre: drama Korea, China, horor, Indonesia, hingga film SA/USA.\nStreaming praktis, tanpa bayar dan tanpa iklan!\n\nLangsung tonton sekarang 👉 https://film.wanzofc.site",
+        "media": {
+          "type": "video",
+          "url": "https://files.catbox.moe/fvmho5.mp4"
+        }
+      },
+      "lastRun": "2026-04-21T11:04:24.568Z"
+    },
+    "autoread": false,
+    "storyStore": {
+      "records": []
+    },
+    "channelReact": {
+      "sessions": {
+        "96195053678601@lid": {
+          "jid": "120363407635777414@newsletter",
+          "url": "https://whatsapp.com/channel/0029Vb7OYDd5vKA3Rqdh561b",
+          "name": "𝗔𝗡𝗬𝗙𝗘𝗧𝗖𝗛",
+          "invite": "0029Vb7OYDd5vKA3Rqdh561b",
+          "serverId": "224",
+          "lockedServerId": "224",
+          "emoji": "🥰",
+          "count": 100,
+          "metadata": {
+            "id": "120363407635777414@newsletter",
+            "state": "ACTIVE",
+            "creation_time": 1767627553,
+            "name": "𝗔𝗡𝗬𝗙𝗘𝗧𝗖𝗛",
+            "nameTime": 1768197433827051,
+            "description": "───〔 ♦️ ᴀɴʏғᴇᴛᴄʜ ♦️ 〕───\n┃\n┃ 🌐 Multi-source scraping\n┃ 🧠 Clean endpoints & logic\n┃ ⚙️ APIs • Bots • Data pulls\n┃ 📦 Raw → Structured → Ready\n┃\n┣──〔 🔍 ᴡʜᴀᴛ ᴡᴇ ᴅᴏ 〕───\n┃ ⌱ Websites scraping\n┃ ⌱ Anime / Game data\n┃ ⌱ APIs & hidden endpoints\n┃ ⌱ Automation-ready outputs\n┃\n┣──〔 🛠️ sᴛʏʟᴇ 〕───\n┃ ⌱ Short code\n┃ ⌱ Reusable logic\n┃ ⌱ No trash, no filler\n┃ ⌱ Quality over quantity\n┃\n┣──〔 🧩 ғᴏʀ 〕───\n┃ ⌱ Devs\n┃ ⌱ Scrapers\n┃ ⌱ Bot builders\n┃ ⌱ Data hunters\n┃\n┗━━━━━━━━━━━━━━━━━┈\n     *ғᴇᴛᴄʜ ᴀɴʏᴛʜɪɴɢ. ᴍɪss ɴᴏᴛʜɪɴɢ.* ⚡",
+            "descriptionTime": 1768196624055754,
+            "invite": "0029Vb7OYDd5vKA3Rqdh561b",
+            "handle": null,
+            "reaction_codes": "ALL",
+            "subscribers": 46,
+            "verification": "UNVERIFIED",
+            "viewer_metadata": null
+          },
+          "updatedAt": "2026-04-18T15:03:01.255Z"
+        }
+      }
+    },
+    "bannedChats": {},
+    "commandStats": {
+      "6288801074059@s.whatsapp.net": {
+        "count": 11,
+        "lastCommand": "self",
+        "lastUsedAt": "2026-04-21T11:52:49.324Z"
+      },
+      "164137208422615@lid": {
+        "count": 2,
+        "lastCommand": "restart",
+        "lastUsedAt": "2026-04-21T10:58:00.626Z"
+      },
+      "241828871798885@lid": {
+        "count": 1,
+        "lastCommand": "cpanel",
+        "lastUsedAt": "2026-04-21T10:56:22.924Z"
+      },
+      "162092770410656@lid": {
+        "count": 1,
+        "lastCommand": "pint-s",
+        "lastUsedAt": "2026-04-21T11:14:07.153Z"
+      },
+      "185276718698642@lid": {
+        "count": 8,
+        "lastCommand": "d",
+        "lastUsedAt": "2026-04-21T11:51:34.184Z"
+      },
+      "198599925317672@lid": {
+        "count": 1,
+        "lastCommand": "slap",
+        "lastUsedAt": "2026-04-21T11:23:24.280Z"
+      },
+      "279435337011281@lid": {
+        "count": 2,
+        "lastCommand": "s",
+        "lastUsedAt": "2026-04-21T11:24:09.152Z"
+      },
+      "34807102840992@lid": {
+        "count": 1,
+        "lastCommand": "antilink2",
+        "lastUsedAt": "2026-04-21T11:33:29.599Z"
+      },
+      "160735460126845@lid": {
+        "count": 1,
+        "lastCommand": "afk",
+        "lastUsedAt": "2026-04-21T11:35:42.750Z"
+      },
+      "253592653033608@lid": {
+        "count": 4,
+        "lastCommand": "self",
+        "lastUsedAt": "2026-04-21T11:46:39.184Z"
+      }
+    }
+  },
+  "stock": {
+    "script": {}
+  },
+  "transactions": [],
+  "config": {
+    "botProfile": {
+      "botName": "awan",
+      "ownerName": "wanzofc",
+      "ownerNumber": "6288801074059",
+      "thumbnailMode": "link",
+      "thumbnail": "https://yt3.ggpht.com/muwFxUJNQxfsuK8qLzip0VWKhXt4q-gYsgJy-045x7U2mO9gaa5yikN4YY86w2z83p-weNDQrA=s176-c-k-c0x00ffffff-no-rj-mo",
+      "thumbnailUpload": "",
+      "replyThumbnailMode": "link",
+      "replyThumbnail": "https://yt3.ggpht.com/muwFxUJNQxfsuK8qLzip0VWKhXt4q-gYsgJy-045x7U2mO9gaa5yikN4YY86w2z83p-weNDQrA=s176-c-k-c0x00ffffff-no-rj-mo",
+      "replyThumbnailUpload": "",
+      "maskRuntimeHome": true,
+      "maskRuntimeAuth": true,
+      "footerText": "powered by awan"
+    },
+    "dashboard": {
+      "publicUrl": "",
+      "customDomain": "",
+      "maintenanceMode": false,
+      "autoBackup": {
+        "enabled": false,
+        "intervalHours": 24,
+        "lastRun": null
+      }
+    }
+  }
+}
