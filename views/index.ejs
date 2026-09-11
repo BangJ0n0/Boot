@@ -1,0 +1,106 @@
+<%- include("partials/head", { pageTitle, bodyClass: "landing-page" }) %>
+
+<div class="page page-landing">
+  <header class="topbar">
+    <div class="headline-block">
+      <a href="/" class="brand">
+        <span class="brand-mark"><i class="fa-solid fa-wave-square"></i></span>
+        <span class="brand-text">wanzofc bot</span>
+      </a>
+      <p class="dashboard-subtitle">home panel untuk monitor bot whatsapp multi session</p>
+    </div>
+    <nav class="topbar-actions">
+      <a href="/login" class="button button-ghost"><i class="fa-solid fa-right-to-bracket"></i> login</a>
+      <a href="/register" class="button button-primary"><i class="fa-solid fa-user-plus"></i> register</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">dashboard publik untuk bot whatsapp multi session</p>
+        <h1>wanzofc bot control room</h1>
+        <p class="hero-text">kelola login admin, pairing code, status session, toggle on off bot, dan editor case message.js dari web yang sama dengan engine baileys, dengan alur auth normal tanpa invite code.</p>
+        <div class="hero-actions">
+          <a href="/dashboard" class="button button-primary"><i class="fa-solid fa-gauge-high"></i> buka dashboard</a>
+          <a href="/login" class="button button-ghost"><i class="fa-solid fa-lock"></i> login admin</a>
+        </div>
+      </div>
+
+      <section class="surface hero-panel" data-secret-group="home-runtime">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">live bot status</p>
+            <h2>status runtime utama</h2>
+          </div>
+          <span class="lock-badge"><i class="fa-solid fa-lock"></i> tersensor permanen</span>
+        </div>
+        <div class="terminal-stack">
+          <div class="terminal-line">
+            <span class="terminal-key">status</span>
+            <span class="status-pill status-<%= botStatus.status %>"><%= botStatus.status %></span>
+          </div>
+          <div class="terminal-line">
+            <span class="terminal-key">connection</span>
+            <span data-secret="<%= botStatus.connection || '-' %>" data-masked="<%= (botProfile.maskRuntimeHome !== false ? maskValue(botStatus.connection || '-') : (botStatus.connection || '-')) %>"><%= botProfile.maskRuntimeHome !== false ? maskValue(botStatus.connection || '-') : (botStatus.connection || '-') %></span>
+          </div>
+          <div class="terminal-line">
+            <span class="terminal-key">phone</span>
+            <span data-secret="<%= botStatus.phone || '-' %>" data-masked="<%= (botProfile.maskRuntimeHome !== false ? maskValue(botStatus.phone || '-') : (botStatus.phone || '-')) %>"><%= botProfile.maskRuntimeHome !== false ? maskValue(botStatus.phone || '-') : (botStatus.phone || '-') %></span>
+          </div>
+          <div class="terminal-line">
+            <span class="terminal-key">registered</span>
+            <span><%= botStatus.registered ? "true" : "false" %></span>
+          </div>
+          <div class="terminal-line">
+            <span class="terminal-key">tracked groups</span>
+            <span><%= metrics.totalGroups %></span>
+          </div>
+          <div class="terminal-line">
+            <span class="terminal-key">message.js cases</span>
+            <span><%= metrics.totalCases %></span>
+          </div>
+        </div>
+      </section>
+    </section>
+
+    <section class="editorial-grid">
+      <article class="surface feature-rail">
+        <p class="eyebrow">content plan</p>
+        <h2>satu panel untuk pairing, power control, dan penambahan case</h2>
+        <p>alur utamanya sederhana: masuk sebagai admin, buat session, ganti nomor jika perlu, hidupkan atau matikan bot, lalu tambahkan fitur baru ke message.js tanpa buka editor terpisah.</p>
+      </article>
+
+      <article class="surface feature-note">
+        <span class="note-index">01</span>
+        <h3><i class="fa-solid fa-link"></i> pairing dari web</h3>
+        <p>nomor tiap session bisa diubah langsung dari dashboard dan tetap sinkron dengan runtime.</p>
+      </article>
+
+      <article class="surface feature-note">
+        <span class="note-index">02</span>
+        <h3><i class="fa-solid fa-power-off"></i> active atau off</h3>
+        <p>setiap session punya power state sendiri supaya bot tertentu bisa offline tanpa mengganggu session lain.</p>
+      </article>
+
+      <article class="surface feature-note">
+        <span class="note-index">03</span>
+        <h3><i class="fa-solid fa-earth-asia"></i> siap dipublikasi</h3>
+        <p>panel sudah disiapkan untuk diakses publik, dan tinggal disambungkan ke tunnel atau domain publik saat runtime local aktif.</p>
+      </article>
+    </section>
+
+    <section class="surface cta-strip">
+      <div>
+        <p class="eyebrow">interaction thesis</p>
+        <h2>masuk sekarang dan kelola semua session dari satu halaman</h2>
+      </div>
+      <div class="cta-actions">
+        <a href="/register" class="button button-primary"><i class="fa-solid fa-id-badge"></i> buat admin</a>
+        <a href="/login" class="button button-ghost"><i class="fa-solid fa-arrow-right"></i> masuk</a>
+      </div>
+    </section>
+  </main>
+</div>
+
+<%- include("partials/footer") %>
